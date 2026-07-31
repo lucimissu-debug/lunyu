@@ -3206,13 +3206,21 @@ body.v3-persons-active .v5-p-scroll-wrap {
   background: var(--bg);
 }
 body.v3-persons-active .v5-p-scroll-wrap .person-section {
-  display: none;
+  display: none !important;      /* S5.1 硬规则：非 active 必须隐藏，不管其他选择器冲突 */
   padding: 0 0 24px 0;
   margin: 0;
 }
 body.v3-persons-active .v5-p-scroll-wrap .person-section.active {
-  display: block;
+  display: block !important;     /* S5.1 硬规则：active 必须显示 */
   animation: v5-fadein 180ms ease-out;
+}
+/* S5.1：底部 Tab 已经说了内容类型，section 内部重复的「提问统计/对话互动」大标题隐藏，不重复罗列 */
+body.v3-persons-active .v5-p-scroll-wrap .person-section.active > .section-title-row,
+body.v3-persons-active .v5-p-scroll-wrap .person-section.active > .person-section-title,
+body.v3-persons-active .v5-p-scroll-wrap .person-section.active > .stat-strip-title,
+body.v3-persons-active .v5-p-scroll-wrap .person-section.active > .stat-strip-title-row,
+body.v3-persons-active .v5-p-scroll-wrap .person-section.active .sp-header-block + .section-toolbar {
+  display: none !important;
 }
 @keyframes v5-fadein {
   from { opacity: 0; transform: translateY(3px); }
@@ -3250,6 +3258,7 @@ body.v3-persons-active .v5-p-scroll-wrap .person-section-title {
   box-sizing: border-box;
 }
 .v5-p-tab {
+  position: relative;
   display: inline-flex;
   flex-direction: column;
   align-items: center;
@@ -3260,7 +3269,7 @@ body.v3-persons-active .v5-p-scroll-wrap .person-section-title {
   border: none;
   border-radius: 10px;
   background: transparent;
-  color: var(--muted);
+  color: var(--muted, #8a7e6c);
   -webkit-tap-highlight-color: transparent;
   cursor: pointer;
   font-family: inherit;
@@ -3268,13 +3277,31 @@ body.v3-persons-active .v5-p-scroll-wrap .person-section-title {
 }
 .v5-p-tab:active { background: rgba(139, 69, 19, 0.06); }
 .v5-p-tab.active {
-  color: var(--accent);
-  background: rgba(139, 69, 19, 0.08);
-  font-weight: 600;
+  color: var(--accent, #8b4513);
+  background: rgba(139, 69, 19, 0.10);
+  font-weight: 700;
+}
+/* S5.1：active Tab 顶部加一条 accent 色小横条，一眼能看到选中了谁 */
+.v5-p-tab.active::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 28px;
+  height: 3px;
+  border-radius: 0 0 3px 3px;
+  background: var(--accent, #8b4513);
+  box-shadow: 0 1px 3px rgba(139, 69, 19, 0.25);
 }
 .v5-p-tab .ic {
-  font-size: 18px;
+  font-size: 19px;
   line-height: 1;
+  filter: grayscale(0.2);
+}
+.v5-p-tab.active .ic {
+  filter: none;   /* active 图标原色 */
+  transform: translateY(-1px) scale(1.04);
 }
 .v5-p-tab .lb {
   font-size: 10.5px;
