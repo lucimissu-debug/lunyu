@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# TRAE 临时共享包
+.trae-html-share-packages/
+
+# 过程中间产物（原始 lunyu-data、备份目录、过程报告目录）
+lunyu-data/
+lunyu-exploration-plan/
+lunyu-project-handoff/
+lunyu-zhuxi-498-split-plan/
+lunyu-zhuxi-ben-498-anchor/
+step3-mapping-report/
+lunyu_chapters.json
+
+# 备份残留
+*.bak
+*.bak_*

@@ -1,0 +1,3503 @@
+{
+  "_meta": {
+    "title": "《论语》现代白话译文（杨伯峻风格AI生成版）",
+    "schema_version": "interpretation-layer-1.0",
+    "chapter_system": "朱熹《论语集注》20篇498章体系",
+    "total_verses_expected": 498,
+    "translation_edition": "杨伯峻风格白话译文（AI综合生成·非中华书局逐字对齐版）",
+    "translator_cn": "杨伯峻风格",
+    "status": "ai-yangbojuan-498-filled-qc-v2",
+    "filled_count": 498,
+    "version": "v3.2-AI-YBJ-complete",
+    "last_updated": "2026-07-31",
+    "note": "本译文为AI参照杨伯峻《论语译注》的朴实白话学术风格生成，不是中华书局原版逐字对齐版。用途：辅助理解原文、体会《论语》阅读乐趣。后续可以在此基础上用可靠版本逐章校对替换。"
+  },
+  "chapters": {
+    "bayi-01": {
+      "translation": "孔子谈到季孙氏说：\"他用天子才能用的八佾六十四人在庭院中奏乐舞蹈，这样僭礼的事都狠心做得出来，还有什么事不能狠心做出来呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-02": {
+      "translation": "孟孙氏、叔孙氏、季孙氏三家在祭祖完毕撤除祭品时，也命人唱《雍》这篇天子祭祖撤馔时用的诗。孔子说：\"'助祭的是诸侯，天子严肃静穆地在那里主祭。'这样的诗句，怎么能用在三家祭祖的庙堂上呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-03": {
+      "translation": "孔子说：\"如果一个人没有仁德，他怎样来对待礼仪制度呢？如果一个人没有仁德，他怎样来对待音乐呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-04": {
+      "translation": "林放问礼的根本。孔子说：\"你问的问题意义重大呀！就一般礼仪说，与其铺张浪费，宁可朴素节俭；就丧礼说，与其仪文周到，宁可内心悲伤。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-05": {
+      "translation": "孔子说：\"周边落后部族虽然有君主，还不如中原诸国没有君主呢。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-06": {
+      "translation": "季氏要去祭祀泰山。孔子对冉有说：\"你不能阻止他吗？\"冉有回答说：\"不能。\"孔子说：\"哎呀！难道说泰山之神还不如林放知礼，竟然接受这不合礼制的祭祀吗？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-07": {
+      "translation": "孔子说：\"君子没有什么可争的事情。如果有所争，一定是比箭吧！比赛时，先互相作揖然后上堂；比赛完了，下堂饮酒。这就是君子之争。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-08": {
+      "translation": "子夏问孔子：\"有酒窝的脸笑得美呀，黑白分明的眼流转得媚呀，洁白的底子上画着花卉呀。这几句诗是什么意思？\"孔子说：\"先有白色底子，然后画花。\"子夏说：\"那么，礼乐是不是产生在仁义之后呢？\"孔子说：\"卜商呀，你真是能启发我的人。现在可以和你讨论《诗经》了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-09": {
+      "translation": "孔子说：\"夏朝的礼，我能说出来，但是它的后代杞国不足以证明我的话；殷朝的礼，我能说出来，但是它的后代宋国不足以证明我的话。这都是由于两国的历史文献和贤者不足的缘故。如果文献和贤者足够，我就可以引来作证了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-10": {
+      "translation": "孔子说：\"对于天子举行的禘祭，从第一次献酒以后，我就不想看了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-11": {
+      "translation": "有人问禘祭的道理。孔子说：\"我不知道。知道这道理的人治理天下，就好像把东西摆在这里一样容易吧！\"他一面说，一面指着自己的手掌。",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-12": {
+      "translation": "孔子祭祀祖先的时候，就好像祖先真在那里；祭神的时候，就好像神真在那里。孔子说：\"我如果不亲自参加祭祀，就等于不祭。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-13": {
+      "translation": "王孙贾问道：\"与其巴结房屋西南角的神，宁可巴结灶君司命。这两句俗语是什么意思？\"孔子说：\"不是这样的。如果一个人得罪了天，那就没有地方可以祈祷了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-14": {
+      "translation": "孔子说：\"周朝的礼仪制度是以夏、商两代为根据，然后制定的，多么丰富多彩呀！我主张用周朝的。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-15": {
+      "translation": "孔子进入太庙，每件事都要问。有人说：\"谁说陬邑大夫的儿子懂得礼呢？进入太庙，每件事都要问别人。\"孔子听到了这话，说：\"这正是礼呀。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-16": {
+      "translation": "孔子说：\"射箭比赛不以穿透靶子的皮革为主，因为各人的力气大小不同。这是自古以来的规矩。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-17": {
+      "translation": "子贡想要把每月初一祭祖庙用的活羊去掉不用。孔子说：\"子贡啊！你爱惜那只羊，我爱惜那种礼。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-18": {
+      "translation": "孔子说：\"服侍君主，一切依照礼制行事，别人反而以为是谄媚。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-19": {
+      "translation": "鲁定公问孔子：\"君主使唤臣子，臣子侍奉君主，各应该如何？\"孔子答道：\"君主使唤臣子要依礼而行，臣子侍奉君主要竭尽忠心。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-20": {
+      "translation": "孔子说：\"《关雎》这首诗，有欢乐而不至于放荡，有哀思而不至于伤痛。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-21": {
+      "translation": "鲁哀公问宰我，土地神的木主应该用什么木料。宰我答道：\"夏代用松木，殷代用柏木，周代用栗木。用栗木的意思是说，要让百姓战栗恐惧。\"孔子听到了这话，说：\"已经做过的事不用再解释了，已经完成的事不用再劝阻了，已经过去的事不用再追究了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-22": {
+      "translation": "孔子说：\"管仲的器量真是狭小呀！\"有人说：\"管仲是不是生活很节俭？\"孔子说：\"管仲有三处公馆，手下人员都不兼职，怎么能说是节俭呢？\"那人又问：\"那么，管仲是不是懂得礼呢？\"孔子说：\"国君宫殿门前，立了一个塞门（屏墙），管仲家也立了塞门。国君为了两国君主的友好，有反坫的设备，管仲家也有反坫的设备。如果说管仲懂得礼，那还有谁不懂得礼呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-23": {
+      "translation": "孔子对鲁国的乐官太师谈论演奏音乐的道理，说：\"音乐是可以知道的。开始演奏的时候，整齐一致；接着展开来，音韵和谐，音节分明，绵绵不绝，一直到完成。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-24": {
+      "translation": "仪这个地方的边防长官请求会见孔子，他说：\"凡是有道德学问的君子来到我这里，我从来没有不和他见面的。\"孔子随行的学生们请他去见了孔子。他出来以后，对孔子的学生们说：\"你们几位何必担心没有官做呢？天下无道已经很久了，上天将把你们的老师作为传播大道的木铎。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-25": {
+      "translation": "孔子评论《韶》乐，说：\"美极了，而且好极了。\"评论《武》乐，说：\"美极了，却还不够好。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "bayi-26": {
+      "translation": "孔子说：\"在上位的人，如果对礼不严格要求，行礼的时候不严肃认真，临到丧事的时候不悲哀，这种样子我怎么能看得下去呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [bayi-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-01": {
+      "translation": "孔子评论公冶长，说可以把女儿嫁给他。他虽然被关在牢狱里，但这不是他的罪过。于是孔子把自己的女儿嫁给了他。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-02": {
+      "translation": "孔子评论南容，说国家政治清明的时候，他不会被废弃不用；国家政治黑暗的时候，他也能避免刑罚杀戮。于是孔子把自己哥哥的女儿嫁给了他。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-03": {
+      "translation": "孔子评论子贱，说这个人真是个君子啊。如果鲁国没有君子的话，他是从哪里学到这种品德的呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-04": {
+      "translation": "子贡问孔子，我端木赐这个人怎么样？孔子说，你好比是一件器具。子贡问，是什么器具呢？孔子说，是宗庙里盛粮食的瑚琏。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-05": {
+      "translation": "有人说，冉雍这个人有仁德但没有口才。孔子说，何必要口才呢？伶牙俐齿地和人争辩，常常会被人讨厌。我不知道冉雍算不算有仁德，但何必要有口才呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-06": {
+      "translation": "孔子让漆雕开去做官。漆雕开回答说，我对这件事还没有足够的信心。孔子听了很高兴。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-07": {
+      "translation": "孔子说，如果我的主张行不通，我就乘木筏到海外去。能跟随我的，大概只有仲由吧？子路听到这话很高兴。孔子说，仲由这个人好勇的精神超过我，但是没有其他可取的才能。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-08": {
+      "translation": "孟武伯问子路算不算有仁德。孔子说，我不知道。孟武伯又问了一遍。孔子说，仲由这个人，在有一千辆兵车的国家里，可以让他主管军政工作，但我不知道他算不算有仁德。孟武伯又问，冉求怎么样呢？孔子说，冉求这个人，在有千户人家的公邑或有百辆兵车的大夫封地，可以让他当总管，但我不知道他算不算有仁德。孟武伯又问，公西赤怎么样呢？孔子说，公西赤这个人，穿着礼服站在朝廷上，可以让他接待宾客、办理外交，但我不知道他算不算有仁德。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-09": {
+      "translation": "孔子对子贡说，你和颜回比，谁更强一些？子贡回答说，我怎么敢和颜回比呢？颜回听到一件事，可以推知十件事；我听到一件事，只能推知两件事。孔子说，确实不如他，我同意你说的，你是不如他。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-10": {
+      "translation": "宰予白天睡觉。孔子说，腐朽的木头没法雕刻，粪土似的墙壁没法粉刷。对于宰予这个人，我还有什么可以责备的呢？孔子又说，起初我对于人，听了他说的话就相信他的行为；现在我对于人，听了他说的话还要观察他的行为。从宰予这件事以后，我改变了观察人的方法。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-11": {
+      "translation": "孔子说，我没有见过刚强不屈的人。有人回答说，申枨就是这样的人。孔子说，申枨这个人欲望太多，怎么能刚强呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-12": {
+      "translation": "子贡说，我不愿意别人把什么事强加在我身上，我也愿意不把什么事强加在别人身上。孔子说，端木赐啊，这不是你能做到的。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-13": {
+      "translation": "子贡说，老师关于文献典籍方面的学问，我们是能够听得到的；老师关于人性和天道方面的言论，我们是听不到的。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-14": {
+      "translation": "子路听到一条道理，如果还没能亲身实行，就只怕又听到新的道理。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-15": {
+      "translation": "子贡问道，孔文子凭什么谥号叫作文呢？孔子说，他聪敏好学，不以向地位比自己低的人请教为羞耻，所以给他的谥号叫作文。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-16": {
+      "translation": "孔子评论子产，说他有四种符合君子之道的品行：他自己的言行态度很庄重，他侍奉君上很恭敬，他教养百姓有恩惠，他役使百姓合乎情理。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-17": {
+      "translation": "孔子说，晏平仲很善于和人交往，相识越久，别人越敬重他。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-18": {
+      "translation": "孔子说，臧文仲替蔡地出产的大乌龟盖了一间屋子，斗拱雕成山形，梁上短柱画着藻草。他的聪明智慧怎么会是这样呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-19": {
+      "translation": "子张问道，楚国的令尹子文三次做令尹，没有露出高兴的神色；三次被罢免，也没有露出怨恨的神色。每次卸任，一定把自己任内的政令告诉新任的令尹。这个人怎么样？孔子说，这可以算是尽忠了。子张问，算不算有仁德呢？孔子说，不知道，这怎么能算仁呢？子张又说，崔子杀了齐庄公，陈文子有四十匹马，舍弃不要，离开齐国。到了别的国家，就说这里的执政者和我们齐国的大夫崔子差不多。于是又离开。到了另一个国家，又说这里的执政者和我们齐国的大夫崔子差不多。于是又离开。这个人怎么样？孔子说，这可以算是清高了。子张问，算不算有仁德呢？孔子说，不知道，这怎么能算仁呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-20": {
+      "translation": "季文子每件事都要考虑三次才去做。孔子听到后说，考虑两次就可以了。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-21": {
+      "translation": "孔子说，宁武子这个人，国家政治清明的时候就很聪明，国家政治黑暗的时候就装作愚笨。他那种聪明别人可以做得到，他那种装作愚笨的样子别人就做不到了。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-22": {
+      "translation": "孔子在陈国的时候，说回去吧，回去吧。我家乡的那些年轻人志向远大而行为粗疏，文采斐然，我不知道该怎样去指导他们。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-23": {
+      "translation": "孔子说，伯夷、叔齐两兄弟不记念过去的仇恨，因此别人对他们的怨恨也就很少。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-24": {
+      "translation": "孔子说，谁说微生高这个人直率？有人向他讨点醋，他不肯直接说自己没有，却到邻居家讨来再给那个人。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-25": {
+      "translation": "孔子说，花言巧语、假装和善、过分恭敬，这种态度左丘明认为可耻，我也认为可耻。心里藏着怨恨，表面上却和人家交朋友，这种行为左丘明认为可耻，我也认为可耻。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-26": {
+      "translation": "颜渊、季路两人站在孔子身边。孔子说，你们何不各自说说自己的志向？子路说，我愿意把自己的车马、衣服、皮袍拿出来和朋友共同使用，即使用坏了也不后悔。颜渊说，我愿意不夸耀自己的好处，不表白自己的功劳。子路对孔子说，希望听听老师您的志向。孔子说，让年老的人得到安养，让朋友们信任我，让年轻人得到关怀。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "gongyechang-27": {
+      "translation": "孔子说，算了吧，我还没有见过能够看到自己的错误而在内心责备自己的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [gongyechang-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-01": {
+      "translation": "季氏将伐颛臾。冉有、子路见孔子说：季氏准备对颛臾用兵。孔子说：冉求！这不该责备你吗？颛臾，先王命它主东蒙山祭，在鲁境，是社稷之臣，为何讨伐？冉有说：季孙要这么做，我们二人都不同意。孔子说：冉求！周任有言：陈力就列，不能者止。瞎子遇险不扶，跌倒不搀，还用相者做什么？虎兕出柙，龟玉毁椟，是谁之过？冉有说：颛臾城固，又近费邑，现在不取，后世必为子孙忧。孔子说：君子最恨舍曰欲之而必为之辞。丘也闻，有国有家者，不患寡而患不均，不患贫而患不安。均无贫，和无寡，安无倾。远人不服则修文德以来之，既来之则安之。你们辅佐季孙，远人不服不能来，邦分崩不能守，反而谋动干戈于邦内。吾恐季孙之忧不在颛臾，而在萧墙之内也。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-02": {
+      "translation": "孔子说：天下政治清明，制礼作乐以及出兵征伐的命令都由天子下达；天下政治昏乱，制礼作乐以及出兵征伐的命令便由诸侯下达。命令由诸侯下达，大概传到十代还能继续的就很少了；由大夫下达，传到五代还能继续的就很少了；若是大夫的家臣把持国家政权，传到三代还能继续的就很少了。天下政治清明，国家的最高权力就不会掌握在大夫手中。天下政治清明，老百姓就不会议论纷纷。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-03": {
+      "translation": "孔子说：国家政权离开了鲁君，已经有五代了；政权到了大夫之手，已经有四代了，所以三桓的子孙现在也衰微了。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-04": {
+      "translation": "孔子说：有益的朋友有三种，有害的朋友有三种。同正直的人交朋友，同诚信的人交朋友，同见闻广博的人交朋友，便有益了。同谄媚奉承的人交朋友，同当面恭维背后毁谤的人交朋友，同夸夸其谈的人交朋友，便有害了。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-05": {
+      "translation": "孔子说：有益的快乐有三种，有害的快乐有三种。以得到礼乐的调节为快乐，以宣扬别人的好处为快乐，以交了不少贤德的朋友为快乐，便有益了。以骄傲放肆为快乐，以游荡忘返为快乐，以饮食荒淫为快乐，便有害了。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-06": {
+      "translation": "孔子说：陪着君子说话容易犯三种过失：没轮到自己说话就先说，这叫做急躁；轮到自己说话却不说，这叫做隐瞒；不看君子的脸色便贸然开口，这叫做瞎了眼睛。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-07": {
+      "translation": "孔子说：君子有三件事应该警惕戒备：年轻的时候，血气还没有稳定，要警戒贪恋女色；等到壮年，血气正旺盛，要警戒争强好斗；等到老年，血气已经衰弱，要警戒贪得无厌。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-08": {
+      "translation": "孔子说：君子有三种敬畏：敬畏天命，敬畏居于高位的人，敬畏圣人的言语。小人不懂得天命，因而对它不敬畏，轻视居于高位的人，侮慢圣人的言语。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-09": {
+      "translation": "孔子说：生来就知道的是上等；通过学习然后知道的是次一等；遇到困难然后去学习的，又次一等；遇到困难还不学习，这种老百姓就是最下等的了。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-10": {
+      "translation": "孔子说：君子有九种考虑：看的时候，考虑看明白了没有；听的时候，考虑听清楚了没有；脸上的颜色，考虑是否温和；容貌态度，考虑是否端庄；说的言语，考虑是否忠诚老实；对待工作，考虑是否严肃认真；遇到疑问，考虑怎样向别人请教；要发怒了，考虑有什么后患；看见可得的东西，考虑自己是否应该得。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-11": {
+      "translation": "孔子说：看见善良的行为，就像怕赶不上似的努力去追求；看见不好的行为，就像把手伸到沸水里一样赶紧避开。我见过这样的人，也听过这样的话。用隐居避世来保全自己的意志，用实行仁义来贯彻自己的主张。我听过这样的话，却没有见过这样的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-12": {
+      "translation": "齐景公有马四千匹，到死的时候，老百姓都觉得他没有什么德行可以称颂。伯夷、叔齐饿死在首阳山下，老百姓到现在还在称颂他们。那就是这个意思吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-13": {
+      "translation": "陈亢向伯鱼问道：您在老师那里，也得到与众不同的传授吗？伯鱼回答说：没有。他曾经一个人站在庭中，我恭敬地快步走过。他问我：学过诗没有？我回答说：没有。他便说：不学诗，就不懂得怎么说话。我回去就开始学诗。另一天，他又一个人站在庭中，我又恭敬地快步走过。他问我：学过礼没有？我回答说：没有。他便说：不学礼，便没有立足社会的依据。我回去就开始学礼。我只单独听到过这两次教诲。陈亢回去非常高兴地说：我问一件事，知道了三件事。知道了学诗的重要性，知道了学礼的重要性，又知道了君子对自己的儿子也不偏私。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "jishi-14": {
+      "translation": "国君的妻子，国君称她为夫人，她自称为小童。国内的人称她为君夫人，但对外国人便称她为寡小君。外国人也称她为君夫人。",
+      "edition_ref": "杨伯峻风格AI译文 · [jishi-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-01": {
+      "translation": "孔子说：\"居住在有仁爱的地方最好。选择居住环境而不讲究仁德，怎么算是聪明？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-02": {
+      "translation": "孔子说：\"没有仁德的人，不可以长期处于穷困之中，也不可以长期处于安乐之中。有仁德的人安于实行仁道，聪明的人知道实行仁道对自己有利，才去实行仁道。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-03": {
+      "translation": "孔子说：\"只有有仁德的人，才能正确地喜爱一个人，也才能正确地厌恶一个人。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-04": {
+      "translation": "孔子说：\"如果立定志向实行仁道，就不会做坏事了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-05": {
+      "translation": "孔子说：\"财富与地位，是人人所盼望的；不用正当的方法得到它们，君子不接受。贫困与下贱，是人人所厌恶的；不用正当的方法摆脱它们，君子就不摆脱。君子离开了仁德，怎么能成就他的名声呢？君子是连吃一顿饭的时间也不离开仁德的。就是在仓促匆忙之间，他也一定和仁德同在；就是在颠沛流离的时候，他也一定和仁德同在。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-06": {
+      "translation": "孔子说：\"我没有见过真正爱好仁德的人，也没有见过真正厌恶不仁德的人。真正爱好仁德的人，认为没有什么比仁德更好的了。真正厌恶不仁德的人，他实行仁德，只是为了不使不仁德的东西加在自己身上。能有谁能在某一天把他的力量都用到仁德上来吗？我没有见过这样的人力量不够的。大概这样的人还是有的，只是我没有见过罢了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-07": {
+      "translation": "孔子说：\"每个人的过错，都和他那个类型的人相同。观察一个人所犯的错误，就可以知道他是哪一类人了，也就知道他有没有仁德了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-08": {
+      "translation": "孔子说：\"早晨得知了做人的真理，就是当天晚上死去也心甘。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-09": {
+      "translation": "孔子说：\"读书人有志于追求真理，却又以自己穿破旧衣服、吃粗劣食物为耻辱，这种人不值得同他讨论学问。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-10": {
+      "translation": "孔子说：\"君子对于天下的人和事，没有固定的厚薄亲疏，只是按照义去做。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-11": {
+      "translation": "孔子说：\"君子思念的是道德，小人思念的是田土产业；君子想的是法制，小人想的是恩惠。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-12": {
+      "translation": "孔子说：\"为追求利益而行动，会招致很多怨恨。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-13": {
+      "translation": "孔子说：\"能够把礼让的精神来治理国家吗？那还有什么困难呢？如果不能以礼让来治理国家，光讲礼让的形式，又有什么用呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-14": {
+      "translation": "孔子说：\"不愁没有职位，只愁自己没有任职的本领。不怕没有知道自己的人，只求自己成为值得别人知道的人。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-15": {
+      "translation": "孔子说：\"参呀！我的道是可以用一个基本思想贯通起来的。\"曾子说：\"是。\"孔子出去以后，别的学生便问曾子说：\"这是什么意思？\"曾子说：\"我们老师的道，就是忠恕罢了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-16": {
+      "translation": "孔子说：\"君子明白大义，小人只知道小利。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-17": {
+      "translation": "孔子说：\"看到贤人，便应该想向他看齐；看到不贤的人，便应该自己反省，看看有没有同他类似的毛病。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-18": {
+      "translation": "孔子说：\"在家侍奉父母，要竭尽孝心；在外侍奉君主，要能献出自己的生命；同朋友交往，说话要诚实守信。这样的人，即使说他没学习过，我也一定说他学习过了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-19": {
+      "translation": "孔子说：\"君子，不庄重就没有威严；学习可以使人不固执己见。行事要以忠信为主。不要和不如自己的人交朋友。有了过错，就不要怕改正。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-20": {
+      "translation": "孔子说：\"对父母的丧事，要尽情地表达自己的悲痛之情；祭祀的时候，要尽量表现出自己的恭敬之心。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-21": {
+      "translation": "孔子说：\"有国有家的诸侯和大夫，不必担心财富不多，只担心财富分配不均匀；不必担心人民太少，只担心境内不安定。若是财富分配公平合理，便没有贫穷；境内和平团结，便不会觉得人少；境内安定，国家便不会有倾覆的危险。这样做了，远方的人还不归服，再修明文治教化使他们来。他们来了，就得使他们安心地住下去。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-22": {
+      "translation": "孔子说：\"听到了好的道理，还不能去实行，只怕又听到了新的道理。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-23": {
+      "translation": "孔子说：\"用不正当的手段得来的富贵，对于我来讲，就像是天上的浮云一样。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-24": {
+      "translation": "孔子说：\"古时候，言语不轻易出口，就是怕自己的行动赶不上，说了做不到，这是可耻的。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-25": {
+      "translation": "孔子说：\"因为对自己节制、约束而犯过失的人，这种事情总不会多。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "liren-26": {
+      "translation": "孔子说：\"君子，说话要谨慎迟钝，工作要勤劳敏捷。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [liren-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-01": {
+      "translation": "孔子说，我只传述而不创作，相信而且喜爱古代的文化，我私下把自己比作老彭。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-02": {
+      "translation": "孔子说，把所学的知识默默地记在心里，努力学习从不满足，教导别人从不厌倦，这三件事我做到了哪一样呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-03": {
+      "translation": "孔子说，品德不培养，学问不研讨，听到道义所在却不能去追随，有缺点却不能改正，这些都是我所忧虑的事情。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-04": {
+      "translation": "孔子在家闲居的时候，衣冠整齐，仪态舒展自如，神色温和愉快。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-05": {
+      "translation": "孔子说，我衰老得很厉害了，我已经很长时间没有再梦见周公了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-06": {
+      "translation": "孔子说，以道为志向，以德为根据，以仁为依靠，在六艺之中悠游涵泳。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-07": {
+      "translation": "孔子说，凡是主动带着一束干肉作为见面礼来求学的人，我从来没有不给予教诲的。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-08": {
+      "translation": "孔子说，教导学生，不到他想弄懂而弄不懂的时候不去启发他；不到他想说却说不出来的时候不去引导他。告诉他一个方面，如果他不能由此推知另外三个方面，就不要再教他新的东西了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-09": {
+      "translation": "孔子在有丧事的人旁边吃饭，从来没有吃饱过。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-10": {
+      "translation": "孔子如果在某一天哭过，那这一天就不再唱歌了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-11": {
+      "translation": "孔子对颜渊说，用我的时候，我就去推行我的主张；不用我的时候，我就把它藏起来。只有我和你能够做到这样吧！子路说，如果老师您统率三军作战，您愿意和谁共事呢？孔子说，空手和老虎搏斗、不用船只徒步过河，死了都不后悔的人，我是不会和他共事的。我要找的一定是遇到事情小心谨慎、善于谋划而能够成功的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-12": {
+      "translation": "孔子说，如果财富是可以通过正当手段去追求的话，即使是做手拿鞭子的下等差役，我也愿意去做。如果不可以追求，那我还是做我自己喜欢做的事。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-13": {
+      "translation": "孔子所小心谨慎对待的事情有三件：斋戒、战争、疾病。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-14": {
+      "translation": "孔子在齐国听到了《韶》乐，很长时间吃肉都尝不出味道，说没想到音乐的美妙竟然达到这样的境界。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-15": {
+      "translation": "冉有说，老师会帮助卫国的国君吗？子贡说，好的，我去问问老师。子贡走进屋里，问孔子说，伯夷、叔齐是什么样的人？孔子说，是古代的贤人。子贡又问，他们后来有没有怨恨呢？孔子说，他们追求仁德而得到了仁德，又有什么可怨恨的呢？子贡出来，对冉有说，老师不会帮助卫国国君的。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-16": {
+      "translation": "孔子说，吃粗粮，喝冷水，弯着胳膊当枕头，其中也自有乐趣。用不正当的手段得来的富贵，对我来说就像天上的浮云一样。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-17": {
+      "translation": "孔子说，让我多活几年，到五十岁的时候去学习《周易》，就可以没有大的过错了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-18": {
+      "translation": "孔子有时说普通话，读《诗》、念《书》、举行礼仪的时候，都说的是普通话。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-19": {
+      "translation": "叶公向子路问孔子是个什么样的人，子路没有回答。孔子说，你为什么不这样回答他呢，孔子这个人啊，发愤用功的时候连吃饭都忘了，快乐起来把忧愁都忘了，连自己快要老了都不知道，如此而已。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-20": {
+      "translation": "孔子说，我不是生来就什么都知道的人，我是喜爱古代文化，勤奋敏捷地去追求知识的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-21": {
+      "translation": "孔子不谈论怪异、暴力、叛乱、鬼神这四类事情。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-22": {
+      "translation": "孔子说，几个人一起走路，其中一定有值得我学习的人。我选择他们的优点去学习，看到他们的缺点就用来改正自己。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-23": {
+      "translation": "孔子说，上天在我身上赋予了这样的品德，桓魋能把我怎么样呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-24": {
+      "translation": "孔子说，你们这些学生以为我有什么隐瞒你们的吗？我没有什么隐瞒的。我没有一件事不是公开和你们一起做的，这就是我孔丘的为人。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-25": {
+      "translation": "孔子用四种内容教育学生：历代文献、社会实践、对人尽心、办事诚实。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-26": {
+      "translation": "孔子说，圣人我是看不到了，能看到君子，也就可以了。孔子又说，善人我是看不到了，能看到有恒心的人，也就可以了。明明没有却装作有，明明空虚却装作充实，明明穷困却装作富足，这样的人就很难保持恒心了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-27": {
+      "translation": "孔子钓鱼不用大绳网捕，射鸟不射已经归巢栖息的鸟。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-28": {
+      "translation": "孔子说，大概有那种自己不懂却凭空造作的人吧，我没有这种毛病。多多地听，选择其中好的加以接受；多多地看，牢牢地记在心里。这样得到的知识，仅次于生而知之的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-28]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-29": {
+      "translation": "互乡那个地方的人很难和他们讲道理，那里一个少年却得到了孔子的接见，学生们都很疑惑。孔子说，我是赞成他的进步，不赞成他的退步，何必做得太过分呢？人家把自己收拾干净来求见，我就赞成他这种求进步的心，不去追究他过去的所作所为。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-29]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-30": {
+      "translation": "孔子说，仁德离我们很远吗？我想要达到仁德，仁德马上就来了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-30]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-31": {
+      "translation": "陈司败问孔子，鲁昭公知不知道礼。孔子说，知礼。孔子退出来以后，陈司败向巫马期作了个揖，请他走近自己，说我听说君子是不偏袒人的，难道君子也会偏袒人吗？鲁君从吴国娶了位夫人，吴和鲁是同姓国家，所以不便称她为吴姬，而叫她吴孟子。如果鲁君算是知礼的话，那还有谁不知礼呢？巫马期把这些话告诉了孔子。孔子说，我真是幸运，如果有什么过错，人家一定会知道。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-31]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-32": {
+      "translation": "孔子和别人一起唱歌，如果那人唱得好，一定请他再唱一遍，然后自己跟着他一起唱和。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-32]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-33": {
+      "translation": "孔子说，就书本上的学问来说，我大概和别人差不多吧。做一个身体力行的君子，那我还没有做到。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-33]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-34": {
+      "translation": "孔子说，如果说到圣和仁，那我怎么敢当呢？不过是朝着这个方向努力从不满足，教诲别人从不厌倦，那就可以说是这样罢了。公西华说，这正是我们这些学生学不到的。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-34]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-35": {
+      "translation": "孔子病重，子路请求替他祈祷。孔子说，有这回事吗？子路回答说，有的，《诔文》上说替你向天地神灵祈祷。孔子说，我自己祈祷已经很久了。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-35]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-36": {
+      "translation": "孔子说，奢侈了就会显得不恭顺，节俭了就会显得寒酸。与其不恭顺，宁可寒酸一些。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-36]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "shuer-37": {
+      "translation": "孔子说，君子心胸宽广平坦，小人经常忧愁局促。",
+      "edition_ref": "杨伯峻风格AI译文 · [shuer-37]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-01": {
+      "translation": "孔子说，泰伯这个人，可以说是品德最高尚的人了。他多次把天下让给弟弟季历，老百姓简直找不到恰当的话来称赞他。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-02": {
+      "translation": "孔子说，一味恭敬而不用礼来指导，就会劳累不堪；一味谨慎而不用礼来指导，就会畏缩胆小；一味勇敢而不用礼来指导，就会作乱闯祸；一味直率而不用礼来指导，就会说话尖刻伤人。在上位的君子如果能用深厚的感情对待自己的亲族，老百姓就会兴起仁厚的风气；在上位的人如果不遗弃老朋友和老部下，老百姓就不会对人冷漠无情了。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-03": {
+      "translation": "曾子得了重病，把他的学生们召集到身边来说，掀开被子看看我的脚！掀开被子看看我的手！《诗经》上说小心谨慎，好像站在深渊旁边，好像踩在薄冰上面。从今以后，我才知道自己可以免于刑戮毁伤了，学生们啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-04": {
+      "translation": "曾子得了重病，孟敬子来探望他。曾子说，鸟快要死的时候，它的叫声是悲哀的；人快要死的时候，他说的话是善意的。在上位的君子所重视的道有三个方面：使自己的容貌严肃端庄，这样就可以避免别人的粗暴和怠慢；使自己的脸色端正郑重，这样就接近于诚实守信；说话时注意言辞和语气，这样就可以避免粗野和错误。至于祭祀和礼仪的具体细节，自有主管这些事务的官员去负责。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-05": {
+      "translation": "曾子说，有才能的人向没有才能的人请教，知识渊博的人向知识浅薄的人请教；有学问却像没有学问一样，满腹经纶却像空无所有一样，别人触犯了自己也不计较。从前我的一位朋友曾经这样做过。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-06": {
+      "translation": "曾子说，可以把年幼的孤儿托付给他，可以把国家的命运交付给他，面临生死存亡的紧要关头却不动摇不屈服。这样的人是君子吗？是真正的君子啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-07": {
+      "translation": "曾子说，读书人不可以不心胸宽广、意志坚强，因为责任重大、道路遥远。把实现仁德作为自己的责任，这还不重大吗？为此奋斗到死才停止，这还不遥远吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-08": {
+      "translation": "孔子说，诗可以激发人的志气，礼可以使人在社会上立足，音乐可以陶冶人的情操、完成人格的修养。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-09": {
+      "translation": "孔子说，对于老百姓，可以让他们按照我们指引的道路去做，不可以让他们知道为什么要这样做。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-10": {
+      "translation": "孔子说，崇尚勇敢却憎恶自己贫穷，就会作乱。对于不仁慈的人，如果逼迫厌恶得太过分，也会逼得他作乱。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-11": {
+      "translation": "孔子说，即使有周公那样美好的才能和品德，如果既骄傲又吝啬，那其他方面也就不值得一看了。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-12": {
+      "translation": "孔子说，读书学习了三年，还没有产生做官拿俸禄的念头，这样的人是很难得的。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-13": {
+      "translation": "孔子说，坚定信念，努力学习，誓死固守正确的道理。不进入政局危险的国家，不居住在政治动乱的国家。天下太平就出来做官，天下不太平就隐居起来。国家政治清明，自己却贫贱，这是耻辱；国家政治黑暗，自己却富贵，这也是耻辱。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-14": {
+      "translation": "孔子说，不在那个职位上，就不谋划那个职位上的事情。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-15": {
+      "translation": "孔子说，从太师挚开始演奏，直到《关雎》的乐章结尾，美妙的音乐之声满满地充盈在我的耳中啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-16": {
+      "translation": "孔子说，狂妄而不直率，幼稚而不老实，表面上诚恳而不讲信用，这种人我真不知道他为什么会是这个样子。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-17": {
+      "translation": "孔子说，做学问就像追赶什么似的，生怕赶不上，赶上了又怕再丢失掉。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-18": {
+      "translation": "孔子说，多么伟大崇高啊！舜和禹得到了天下，却一点也不为自己谋求私利。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-19": {
+      "translation": "孔子说，尧作为一个君主，真是伟大啊！他的崇高形象，只有天最高最大，也只有尧能够效法天。他的恩泽真是广阔无边啊，老百姓简直找不到恰当的词语来称赞他。他的功绩实在太崇高了，他的礼仪制度也真是太光辉灿烂了。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-20": {
+      "translation": "舜有五位贤臣，天下就治理得很好。周武王说，我有十位能治理天下的能臣。孔子说，人才难得，难道不是这样吗？唐尧、虞舜时代以及周武王说这话的时候，人才最为兴盛。但十位能臣之中还有一位是妇女，实际上不过九位罢了。周文王当时占有了天下三分之二的土地，却仍然向殷纣王称臣。周朝的道德，可以说是达到最高的境界了。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "taibo-21": {
+      "translation": "孔子说，对于大禹，我没有什么可以挑剔的了。他自己的饮食很简单，却把祭品办得极其丰盛孝敬鬼神；他自己穿的衣服很粗劣，却把祭祀用的礼服和礼帽做得极其华美；他自己住的房屋很矮小，却把全部力量用在修治农田水利上。对于大禹，我真的没有什么可以挑剔的了。",
+      "edition_ref": "杨伯峻风格AI译文 · [taibo-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-01": {
+      "translation": "卫灵公向孔子问军队列阵之法。孔子回答说：祭祀礼仪方面的事情，我曾经听说过；军队作战方面的事情，我从来没有学习过。第二天，孔子便离开了卫国。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-02": {
+      "translation": "孔子一行在陈国断绝了粮食，跟随的人都饿病了，没有人能站起来。子路很不高兴地来见孔子，说：君子也有穷困的时候吗？孔子说：君子虽然穷困，还是能坚守自己的节操；小人一遇穷困，就会无所不为了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-03": {
+      "translation": "孔子说：端木赐啊，你以为我是学了很多东西而又一一记住的吗？子贡回答说：是啊，难道不是这样吗？孔子说：不是的，我是用一个基本观念来贯穿它的。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-04": {
+      "translation": "孔子说：仲由啊，懂得道德的人太少了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-05": {
+      "translation": "孔子说：不需要做什么而能使天下太平的人，大概只有舜吧？他做了什么呢？只是庄严端正地坐在朝廷的王位上罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-06": {
+      "translation": "子张问如何才能使自己到处行得通。孔子说：说话要忠诚老实，做事要敦厚认真，即使到了蛮貊那样的落后地区，也行得通。说话不忠诚老实，做事不敦厚认真，就是在本乡本土，能行得通吗？站着的时候，就仿佛看到忠信笃敬这几个字显现在面前；坐车的时候，就仿佛看到这几个字刻在车辕前的横木上，这样才能使自己到处行得通。子张把这些话写在自己的衣带上。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-07": {
+      "translation": "孔子说：史鱼真正直啊！国家政治清明，他像箭一样正直；国家政治黑暗，他也像箭一样正直。蘧伯玉真是一位君子啊！国家政治清明，就出来做官；国家政治黑暗，就可以把自己的主张藏在心里退隐。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-08": {
+      "translation": "孔子说：可以同他交谈却没有同他交谈，这会失掉人才；不可以同他交谈却同他交谈了，这是说错了话。聪明的人既不会失掉人才，也不会说错话。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-09": {
+      "translation": "孔子说：志士仁人，不会为了求生而损害仁德，只会牺牲自己来成全仁德。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-10": {
+      "translation": "子贡问怎样修养仁德。孔子说：工匠要做好他的工作，一定要先磨快他的工具。住在一个国家，要侍奉大夫中的贤人，结交士人中的仁人。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-11": {
+      "translation": "颜渊问怎样治理国家。孔子说：用夏代的历法，坐殷代的车子，戴周代的礼帽，音乐就用《韶》和《舞》。禁绝郑国的乐曲，疏远花言巧语的小人。郑国的乐曲淫靡，花言巧语的小人危险。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-12": {
+      "translation": "孔子说：一个人没有长远的考虑，一定会有眼前的忧患。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-13": {
+      "translation": "孔子说：算了吧！我没有见过喜欢美德就像喜欢美色那样的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-14": {
+      "translation": "孔子说：臧文仲大概是一个窃居官位的人吧！他明知道柳下惠贤能，却不把他举荐给朝廷。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-15": {
+      "translation": "孔子说：多责备自己而少责备别人，就可以远离别人的怨恨了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-16": {
+      "translation": "孔子说：一个人不经常说怎么办，怎么办的人，我对他也不知道该怎么办了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-17": {
+      "translation": "孔子说：同大家整天在一起，说话从不涉及正经道理，只喜欢卖弄小聪明，这种人很难有所成就了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-18": {
+      "translation": "孔子说：君子以义作为根本，用礼来实行它，用谦逊来表达它，用诚信来完成它。这才是真正的君子啊！",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-19": {
+      "translation": "孔子说：君子只担心自己没有能力，不担心别人不了解自己。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-20": {
+      "translation": "孔子说：君子最引以为恨的是到死而自己的名声不被人们所称道。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-21": {
+      "translation": "孔子说：君子要求的是自己，小人要求的是别人。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-22": {
+      "translation": "孔子说：君子庄重自持但不与人争执，合群团结但不结党营私。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-23": {
+      "translation": "孔子说：君子不因为一个人说的话好听就提拔他，也不因为一个人有缺点就鄙弃他的正确言论。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-24": {
+      "translation": "子贡问道：有没有一个字可以终身奉行的呢？孔子说：那就是恕吧！自己所不想要的，不要加给别人。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-25": {
+      "translation": "孔子说：我对于别人，诋毁了谁？赞美了谁？如果我有所赞美，那一定是经过了实际考察的。夏、商、周三代的人都是这样做的，所以那时候能够走在正直的道路上。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-26": {
+      "translation": "孔子说：我还能够看到史书中存疑的地方。有马的人先把马借给别人乘坐，今天没有这种人了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-27": {
+      "translation": "孔子说：花言巧语会败坏道德。小事情不忍耐，就会败坏大的计划。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-28": {
+      "translation": "孔子说：大家都厌恶他，一定要去考察一下；大家都喜欢他，也一定要去考察一下。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-28]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-29": {
+      "translation": "孔子说：人能够把道发扬光大，不是道能把人发扬光大。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-29]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-30": {
+      "translation": "孔子说：有了过错而不改正，这才是真正的过错。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-30]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-31": {
+      "translation": "孔子说：我曾经整天不吃，整夜不睡，去冥思苦想，结果没有益处，不如去学习。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-31]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-32": {
+      "translation": "孔子说：君子追求的是道，而不是衣食。耕田种地，也免不了要挨饿；努力学习，就可以得到俸禄。君子只担心道不能修成，不担心贫穷。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-32]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-33": {
+      "translation": "孔子说：用聪明才智得到了职位，不能用仁德来保持它，即使得到了，也一定会丧失。用聪明才智得到了职位，能用仁德来保持它，但不能用严肃认真的态度来对待百姓，那百姓也不会敬服。用聪明才智得到了职位，能用仁德保持它，能用严肃认真的态度对待百姓，但不能按照礼义来役使百姓，那也是不完善的。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-33]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-34": {
+      "translation": "孔子说：君子不可以用小事情去考验他，却可以让他承担重大的任务；小人不可以承担重大的任务，却可以用小事情去考验他。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-34]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-35": {
+      "translation": "孔子说：百姓对于仁德的需要，比对于水火的需要还迫切。我见过跳到水火中而死的人，却没有见过实行仁德而死的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-35]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-36": {
+      "translation": "孔子说：遇到可以实践仁德的事情，就是对老师也不必谦让。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-36]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-37": {
+      "translation": "孔子说：君子坚守正道，而不必拘泥于小的信用。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-37]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-38": {
+      "translation": "孔子说：侍奉君主，要认真做好自己的工作，然后再想到领取俸禄的事情。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-38]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-39": {
+      "translation": "孔子说：人人我都教育，不分贫富贵贱和族类。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-39]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-40": {
+      "translation": "孔子说：主张不同，不能互相商量谋划。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-40]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weilinggong-41": {
+      "translation": "孔子说：言辞只要能够表达意思就够了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weilinggong-41]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-01": {
+      "translation": "孔子说：\"用道德来治理国政，自己便会像北极星一般，在一定的位置上，别的星辰都环绕着它。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-02": {
+      "translation": "孔子说：\"《诗经》三百篇，用一句话来概括它，就是'思想纯正'，没有邪念。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-03": {
+      "translation": "孔子说：\"用政令来引导百姓，用刑罚来约束百姓，百姓只是苟且地免于罪过，却没有廉耻之心。如果用道德来引导他们，用礼教来约束他们，百姓不但有廉耻之心，而且人心归服。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-04": {
+      "translation": "孔子说：\"我十五岁，有志于学问；三十岁，说话做事都有把握；四十岁，掌握了各种知识而不致迷惑；五十岁，得知天命；六十岁，一听别人言语，便可以分别真假，判明是非；到了七十岁，便随心所欲，任何念头都不会越出规矩。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-05": {
+      "translation": "孟懿子问什么是孝。孔子说：\"不要违背礼节。\"后来樊迟给孔子驾车，孔子告诉他说：\"孟孙向我问孝，我答复说，不要违背礼节。\"樊迟说：\"这是什么意思？\"孔子说：\"父母活着的时候，依礼侍奉他们；父母去世后，依礼安葬他们，依礼祭祀他们。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-06": {
+      "translation": "孟武伯问什么是孝。孔子说：\"做父母的只是为孝子的疾病发愁。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-07": {
+      "translation": "子游问什么是孝。孔子说：\"现在所谓孝，就是能够养活父母。可是狗马也都能够得到饲养；如果对父母没有恭敬之心，那养活父母和饲养狗马有什么区别呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-08": {
+      "translation": "子夏问什么是孝。孔子说：\"在父母面前总是和颜悦色是件难事。遇到事情，子女替父母去做；有酒饭，让父母先吃，难道这样就可以算是孝了吗？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-09": {
+      "translation": "孔子说：\"我和颜回谈了一整天，他从不提反对意见和疑问，像是个愚笨的人。等他退回去自己研究，却也能发挥，可见颜回并不愚笨。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-10": {
+      "translation": "孔子说：\"看一个人的所作所为，观察他做事的方法，考察他做事时的心情，安于什么，不安于什么。这样，这个人怎样能隐蔽得了呢？这个人怎样能隐蔽得了呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-11": {
+      "translation": "孔子说：\"温习旧的知识，却能从中有新的体会、新的发现，这样的人就可以做老师了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-12": {
+      "translation": "孔子说：\"君子不像器具那样，只有某一方面的用途。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-13": {
+      "translation": "子贡问什么是君子。孔子说：\"先把要说的话实行了，然后再说出来。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-14": {
+      "translation": "孔子说：\"君子合群而不与人勾结，小人与人勾结而不合群。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-15": {
+      "translation": "孔子说：\"只读书学习却不思考问题，就会惘然无所得；只空想却不读书学习，就会心存疑惑而不能肯定。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-16": {
+      "translation": "孔子说：\"攻击那些不同于自己的主张，这是有害的呀！\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-17": {
+      "translation": "孔子说：\"由，我教给你关于对待知与不知的正确态度吧！知道就是知道，不知道就是不知道，这就是真正的明智。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-18": {
+      "translation": "子张要学谋求官职俸禄的方法。孔子说：\"多听，对有疑问的地方，要加以保留；对其余有把握的部分，也要谨慎地谈论，这样就能少犯错误。多看，对有疑问的地方，要加以保留；对其余有把握的部分，也要谨慎地去实行，这样就能减少后悔。说话少犯错，做事少后悔，官职俸禄就在其中了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-19": {
+      "translation": "鲁哀公问道：\"要怎样做才能使百姓服从呢？\"孔子回答说：\"提拔正直无私的人，把他们放在邪恶不正的人之上，百姓就会服从；提拔邪恶不正的人，把他们放在正直无私的人之上，百姓就不会服从。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-20": {
+      "translation": "季康子问道：\"要使百姓尊敬我、忠于我并且互相勉励行善，该怎样做呢？\"孔子说：\"你对百姓的事严肃认真，百姓就会尊敬你；你孝顺父母，慈爱幼小，百姓就会忠于你；你提拔善人，教育能力差的人，百姓就会互相勉励行善了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-21": {
+      "translation": "有人对孔子说：\"你为什么不出来做官参与政治呢？\"孔子说：\"《尚书》上说：'孝呀，只有孝顺父母，友爱兄弟，把这种风气推广到政治上去。'这也算是参与政治了，为什么一定要做官才算参与政治呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-22": {
+      "translation": "孔子说：\"一个人说话不讲信用，我不知道他怎么可以立身处世。好比大车没有车辕与轭相连接的木销子，小车没有车辕与轭相连接的木销子，它靠什么行走呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-23": {
+      "translation": "子张问：\"今后十代的礼仪制度，我可以预先知道吗？\"孔子说：\"殷朝沿袭夏朝的礼仪制度，所废除的和所增加的，是可以知道的；周朝沿袭殷朝的礼仪制度，所废除的和所增加的，也是可以知道的。那么，假定有继承周朝而当政的人，就是以后一百代，也是可以预先知道的。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizheng-24": {
+      "translation": "孔子说：\"不是自己应该祭祀的鬼神，却去祭祀他，这是献媚。眼见应该挺身而出的事情，却袖手旁观，这是怯懦。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [weizheng-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-01": {
+      "translation": "微子离开了纣王，箕子做了纣王的奴隶，比干极力劝谏却被杀死了。孔子说：殷朝有三位仁人啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-02": {
+      "translation": "柳下惠做法官，多次被罢免。有人对他说：您不可以离开鲁国吗？柳下惠说：正直地侍奉别人，到哪里去不会被多次罢免呢？不正直地侍奉别人，又何必一定要离开自己的祖国呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-03": {
+      "translation": "齐景公讲到对待孔子的打算时说：用鲁君对待季氏的规格来对待孔子，那我做不到；我要用介于季氏和孟氏之间的规格来对待他。后来又说：我老了，不能用他了。孔子于是离开了齐国。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-04": {
+      "translation": "齐国人赠送了一些歌姬舞女给鲁国，季桓子接受了，三天不上朝处理政事，孔子于是离开了鲁国。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-05": {
+      "translation": "楚国的狂人接舆唱着歌走过孔子的车子，他唱道：凤凰啊凤凰啊，为什么你的德行这样衰微？过去的已经无法挽回，未来的还来得及改正。算了吧算了吧，今天的从政人物太危险了。孔子下车，想同他谈谈。他却赶快避开，孔子没能和他谈成。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-06": {
+      "translation": "长沮、桀溺两人一起耕田，孔子经过那里，叫子路去打听渡口在哪里。长沮说：那个驾着车子的人是谁？子路说：是孔丘。长沮又问：是鲁国的那个孔丘吗？子路说：是的。长沮说：他应该知道渡口在哪里。子路又去问桀溺。桀溺说：你是谁？子路说：我是仲由。桀溺又问：你是鲁国孔丘的门徒吗？子路回答说：是的。桀溺说：像洪水一样的坏东西到处都是，你们同谁去改变它呢？你与其跟着那种逃避坏人的人，还不如跟着我们这些逃避整个社会的人呢？说完，仍旧不停地做田里的农活。子路回来把这些话告诉了孔子。孔子怅惘地说：我们既然不可以同飞禽走兽合群共处，若不同人群打交道，又同什么去打交道呢？如果天下政治清明，我就不会同他们一起来从事改革了。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-07": {
+      "translation": "子路跟随孔子出行，落在后面，遇到一个用拐杖挑着除草工具的老人。子路问：您看见我的老师了吗？老人说：你们这些人四肢不劳动，五谷分不清，谁知道你的老师是谁？说完便把拐杖插在地上除草去了。子路恭敬地拱手站在一边。老人留子路过夜，杀鸡做黄米饭招待他，还叫两个儿子出来相见。第二天子路赶上孔子，把这事告诉了他。孔子说：这是隐士。叫子路回去再见他。子路到了，老人已经走了。子路说：不出来做官是不对的。长幼礼节不可废弃，君臣之义又怎么能废弃呢？想保持自身清白，却破坏了君臣的根本伦理。君子出来做官，只是做该做的事。至于我们的主张行不通，那是早就知道的。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-08": {
+      "translation": "古今不被任用的人才有：伯夷、叔齐、虞仲、夷逸、朱张、柳下惠、少连。孔子说：不降低自己的意志，不辱没自己的身份，这就是伯夷和叔齐吧！又说到柳下惠和少连：他们降低了自己的意志，辱没了自己的身份，但是言语符合法度，行为经过思虑，他们也不过如此罢了。又说到虞仲和夷逸：他们避世隐居，放肆直言，自身保持清白，离开官场也符合权宜。我就和这些人不同，没有什么可以，也没有什么不可以。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-09": {
+      "translation": "太师挚到齐国去了，二饭干到楚国去了，三饭缭到蔡国去了，四饭缺到秦国去了，打鼓的方叔去了黄河之滨，摇小鼓的武去了汉水之涯，少师阳和击磬的襄去了海边。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-10": {
+      "translation": "周公对鲁公说：君子不怠慢他的亲族，不让大臣抱怨没被任用。老臣故人如果没有严重过失，就不要抛弃他。不要对某一个人求全责备。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "weizi-11": {
+      "translation": "周朝有八位贤士：伯达、伯适、仲突、仲忽、叔夜、叔夏、季随、季騧。",
+      "edition_ref": "杨伯峻风格AI译文 · [weizi-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-01": {
+      "translation": "孔子在自己的家乡，显得非常恭顺温和，好像不大会说话的样子。他在宗庙和朝廷上，却很善于言谈辩论，只是说话比较谨慎罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-02": {
+      "translation": "孔子在朝廷上，和下大夫说话，显得温和快乐、从容不迫；和上大夫说话，显得正直严肃、不卑不亢。国君临朝的时候，他显得恭敬小心、仪态适中。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-03": {
+      "translation": "国君召孔子去接待外国宾客，孔子的脸色立刻变得庄重起来，脚步也加快了。他向和自己站在一起的同僚作揖，左手右手都一一招呼到，衣服前后摆动却整整齐齐不乱。快步向前的时候，姿态像鸟儿展翅一样轻盈。宾客辞别退走以后，他一定向国君回报说，宾客已经走远不再回头了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-04": {
+      "translation": "孔子走进朝廷的大门，弯着腰好像很恭敬的样子，仿佛那道门容不下他的身子。他站着不站在门的中间，走路不踩门坎。经过国君座位的时候，脸色立刻变得庄重起来，脚步也加快了，说话的声音也放得很低好像中气不足似的。他提起衣服的下摆走上朝堂，弯着腰显得很恭敬，屏住气好像不呼吸一样。退出来，走下一级台阶，脸色就放松了，显出怡然自得的样子。走完了台阶，就快步向前走几步，姿态像鸟儿展翅一样轻盈。回到自己的位置上，还是一副恭敬不安的样子。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-05": {
+      "translation": "孔子拿着出使邻国用的玉圭，弯着腰好像很恭敬的样子，仿佛手里拿的东西重得拿不动似的。向上举玉圭的时候好像在作揖，向下放玉圭的时候好像在递给别人。脸色庄重得像在作战一样，脚步很小，好像沿着一条直线往前走。举行献赠礼物的仪式时，脸色和悦舒展。以私人身份和邻国君臣会见的时候，显得轻松愉快。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-06": {
+      "translation": "君子不用深青透红或黑中透红的布做衣服的镶边，不用红色或紫色的布做平时在家穿的便服。夏天的时候，穿粗葛布或细葛布做的单衣，一定要套在内衣外面才出门。黑色的羔羊皮袍配黑色的罩衣，白色的鹿皮袍配白色的罩衣，黄色的狐皮袍配黄色的罩衣。平时在家穿的皮袍做得比较长，右边的袖子做得短一些。睡觉一定要有睡衣，长度相当于一个半人的身长。用厚实的狐貉皮做坐垫。服丧期满以后，什么东西都可以佩带。不是上朝和祭祀时穿的整幅布做的礼服，一定要加以剪裁，去掉多余的布。不穿着黑色的羔羊皮袍和戴着黑色的礼帽去吊丧。每逢初一，一定要穿着朝服去上朝朝见国君。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-07": {
+      "translation": "斋戒沐浴的时候，一定要有浴衣，用布做的。斋戒的时候一定要改变平时的饮食，居住也一定要从卧室迁移到别的房间。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-08": {
+      "translation": "粮食不嫌舂得精，鱼肉不嫌切得细。粮食放久了变味发馊，鱼和肉腐烂变质了，都不吃。食物的颜色变了不吃，气味变了不吃，烹调的火候不对不吃，不到吃饭的时间不吃，肉切得不方正不吃，没有合适的调味酱不吃。席上的肉虽然多，但吃肉的量不超过主食的量。只有酒没有限量，但从不喝到喝醉。从市上买来的酒和干肉不吃。每次吃饭都要有姜，但也不多吃。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-09": {
+      "translation": "孔子参加国君祭祀典礼时分到的肉，不留到第二天再吃。家里面祭祀用过的肉，不超过三天。超过三天，就不吃了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-10": {
+      "translation": "吃饭的时候不交谈，睡觉的时候不说话。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-11": {
+      "translation": "即使吃的是糙米饭和蔬菜汤，吃饭前也一定要分出一点来祭祀先人，而且一定要像斋戒时那样严肃恭敬。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-12": {
+      "translation": "坐席摆得不端正，孔子就不坐下。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-13": {
+      "translation": "和本乡人一起饮酒，饮酒结束后，一定要等拄着拐杖的老人先离开，自己然后才离开。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-14": {
+      "translation": "本乡人举行迎神驱鬼的傩礼，孔子穿着朝服站在东边的台阶上。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-15": {
+      "translation": "孔子托人给别的国家的朋友送问候和礼物，一定要向受托者拜两次再送行。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-16": {
+      "translation": "季康子给孔子赠送药品，孔子拜谢之后接受了。说我对这种药的药性还不了解，不敢贸然尝它。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xiangdang-17": {
+      "translation": "孔子家里的马棚失了火。孔子退朝回来，问伤人了没有？没有问马的情况。",
+      "edition_ref": "杨伯峻风格AI译文 · [xiangdang-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-01": {
+      "translation": "孔子说，先学习礼乐然后再做官的，是那些原来没有爵禄的平民；先有了官位然后才学习礼乐的，是那些卿大夫的子弟。如果要选用人才的话，那我主张选用先学习礼乐的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-02": {
+      "translation": "孔子说，当年跟随我在陈国、蔡国之间受困的学生，现在都不在我的门下了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-03": {
+      "translation": "孔子的学生中，德行好的有颜渊、闵子骞、冉伯牛、仲弓；善于言谈辞令的有宰我、子贡；擅长办理政事的有冉有、季路；熟悉古代文献的有子游、子夏。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-04": {
+      "translation": "孔子说，颜回啊，他不是对我有所帮助的人，他对于我说的话没有不喜欢的。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-05": {
+      "translation": "孔子说，闵子骞真是孝顺啊，别人对于他父母兄弟称赞他的话，从来没有什么不同的意见。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-06": {
+      "translation": "南容把《诗经》中关于白圭的四句诗反复读了好多遍，孔子便把自己哥哥的女儿嫁给了他。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-07": {
+      "translation": "季康子问孔子，你的学生中谁是好学的？孔子回答说，有一个叫颜回的学生很好学，不幸短命死了，现在再也没有这样的人了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-08": {
+      "translation": "颜渊死了，他的父亲颜路请求孔子把车卖了给颜渊做椁。孔子说，不管有才还是无才，也都是自己的儿子啊。我儿子孔鲤死的时候，也是只有棺而没有椁。我不能卖了车步行来给他做椁。因为我曾经做过大夫，是不可以步行出门的。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-09": {
+      "translation": "颜渊死了。孔子说，唉！老天爷要我的命啊！老天爷要我的命啊！",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-10": {
+      "translation": "颜渊死了，孔子哭得极其伤心。跟随孔子的人说，老师您太伤心了。孔子说，真的太伤心了吗？我不为这样的人伤心，还为什么人伤心呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-11": {
+      "translation": "颜渊死了，学生们想要很隆重地安葬他。孔子说，不可以这样做。学生们仍然很隆重地安葬了颜渊。孔子说，颜回看待我如同父亲一样，我却不能把他当亲生儿子一样看待。这不是我的主意啊，是那些学生们要这样做的啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-12": {
+      "translation": "子路问怎样侍奉鬼神。孔子说，连侍奉活人的道理都还没能弄明白，怎么能去侍奉鬼神呢？子路又说，我大胆地请问死是怎么一回事？孔子说，连生的道理都还没能弄明白，怎么能懂得死呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-13": {
+      "translation": "闵子骞站在孔子身边，显得很恭敬正直的样子；子路显得刚强英武的样子；冉有、子贡显得温和快乐的样子。孔子很高兴。但孔子又说，像仲由这样的人，只怕会不得善终啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-14": {
+      "translation": "鲁国的当权者要改建贮藏财货武器的长府。闵子骞说，仍旧保持原来的样子怎么样？为什么一定要改建呢？孔子说，闵子骞这个人平时不爱说话，一说话就切中要害。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-15": {
+      "translation": "孔子说，仲由弹瑟的水平，为什么会出现在我孔丘的门下呢？其他学生因此就不敬重子路了。孔子又说，仲由在学问上已经登上了厅堂，只是还没有进入内室罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-16": {
+      "translation": "子贡问孔子，颛孙师和卜商两个人，谁更贤明一些？孔子说，颛孙师做事往往过头，卜商做事往往达不到。子贡说，那是不是颛孙师更好一些呢？孔子说，过头和达不到，两者同样是不好的。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-17": {
+      "translation": "季氏比周公还要富有，而冉求还要替他搜刮财富，增加他的财产。孔子说，冉求不再是我的学生了，你们这些学生大可以敲着鼓去声讨他。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-18": {
+      "translation": "高柴这个人比较愚直，曾参这个人比较迟钝，颛孙师这个人比较偏激，仲由这个人比较鲁莽。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-19": {
+      "translation": "孔子说，颜回在道德修养上差不多达到了完美的境界吧，可他却常常穷困潦倒。端木赐不接受命运的安排，去做生意囤积投机，猜测市场行情常常能够猜中。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-20": {
+      "translation": "子张问善人的为人之道是什么。孔子说，善人不踩着前人的脚印走，但他的学问道德也还达不到进入圣人内室的高深境界。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-21": {
+      "translation": "孔子说，总是称赞那些说话笃实诚恳的人，但这样的人究竟是真正的君子呢，还是表面上装作庄重的伪君子呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-22": {
+      "translation": "子路问道，听到了道理就应该立刻去做吗？孔子说，有父亲和兄长还在世，怎么能听到了就立刻去做呢？冉有也问道，听到了道理就应该立刻去做吗？孔子说，听到了就立刻去做。公西华说，仲由问听到了道理就应该立刻去做吗，老师说有父亲和兄长在世；冉求问听到了道理就应该立刻去做吗，老师说听到了就立刻去做。我被弄糊涂了，大胆地来问问这是为什么。孔子说，冉求这个人做事容易退缩，所以我要鼓励他前进；仲由这个人做事好胜过人，所以我要压压他让他退后。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-23": {
+      "translation": "孔子在匡地被围困，颜渊最后才逃出来。孔子说，我以为你已经死了。颜渊说，老师您还活着，我怎么敢死呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-24": {
+      "translation": "季子然问道，仲由和冉求可以算得上是大臣吗？孔子说，我以为你问的是别的人，原来问的是仲由和冉求啊。所谓大臣，是用正道来侍奉君主，如果这样行不通，就宁肯辞职不干。现在仲由和冉求这两个人，可以说是具有相当才能的臣属了。季子然又问，那他们是不是会绝对服从上级呢？孔子说，如果是杀父亲、杀君主这样的事，他们也是不会服从的。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianjin-25": {
+      "translation": "子路让子羔去做费地的地方长官。孔子说，你这是害了人家的儿子。子路说，那地方有老百姓，有土地和五谷社稷，为什么一定要读书才叫作学习呢？孔子说，所以我才讨厌那些花言巧语强词夺理的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianjin-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-01": {
+      "translation": "原宪问什么是耻辱。孔子说，国家政治清明，可以做官拿俸禄；国家政治黑暗，却还做官拿俸禄，这就是耻辱。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-02": {
+      "translation": "原宪又问，好胜、自夸、怨恨、贪欲这四种毛病都能克制住不发作，可以算是做到仁了吧？孔子说，可以说是难能可贵了，至于算不算仁，那我就不知道了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-03": {
+      "translation": "孔子说，一个读书人如果留恋安逸的家庭生活，就不配做读书人了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-04": {
+      "translation": "孔子说，国家政治清明，说话正直，行为正直；国家政治黑暗，行为仍然要正直，但说话要谦逊随和。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-05": {
+      "translation": "孔子说，有道德的人一定有好的言论，有好言论的人不一定有道德。有仁德的人一定勇敢，勇敢的人不一定有仁德。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-06": {
+      "translation": "南宫适向孔子问道，羿擅长射箭，奡擅长水战，两个人都没有得到好死。禹和后稷亲自下地种庄稼，却得到了天下。孔子没有回答。南宫适退出去以后，孔子说，这个人真是个君子啊！这个人真是崇尚道德啊！",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-07": {
+      "translation": "孔子说，君子之中有不仁德的人是有的吧，但小人之中是绝对不会有仁德的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-08": {
+      "translation": "孔子说，爱一个人，能不让他勤劳吃苦吗？对一个人忠心，能不教诲开导他吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-09": {
+      "translation": "孔子说，郑国制定外交辞令，先是由裨谌起草，然后由世叔研究评论提出意见，再由外交官子羽进行修改，最后由住在东里的子产加以润色定稿。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-10": {
+      "translation": "有人问子产是怎样的人。孔子说，是个对人有恩惠的人。又问子西是怎样的人。孔子说，那个人啊，那个人啊，不值得一提。又问管仲是怎样的人。孔子说，是个人才。他剥夺了伯氏在骈邑的三百户封地，使伯氏只能吃粗粮，但伯氏到死也没有一句怨言。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-11": {
+      "translation": "孔子说，贫穷而没有怨恨很难做到，富贵而不骄傲却比较容易做到。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-12": {
+      "translation": "孔子说，孟公绰如果做晋国赵氏、魏氏的家臣总管，那是绰绰有余的，但不能让他去做滕国、薛国这样小国的大夫。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-13": {
+      "translation": "子路问怎样才算是一个完美的人。孔子说，如果能有臧武仲那样的聪明智慧，孟公绰那样的不贪心，卞庄子那样的勇敢，冉求那样的多才多艺，再用礼乐加以修养文采，也就可以算是一个完美的人了。孔子又说，现在的完美的人哪里一定要这样呢？看到利益能想到道义，遇到危险肯付出生命，长久处于穷困之中也不忘记平日的诺言，这样也就可以算是一个完美的人了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-14": {
+      "translation": "孔子向公明贾询问公叔文子的情况，说听说他老人家不说话、不笑、不取财物，是真的吗？公明贾回答说，这是告诉您的那个人说得太夸张了。他老人家是到该说话的时候才说话，所以别人不讨厌他的话；真正高兴了才笑，所以别人不讨厌他的笑；符合道义的财物才取，所以别人不讨厌他的取。孔子说，是这样吗？难道真的是这样吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-15": {
+      "translation": "孔子说，臧武仲凭借他的封地防城，要求鲁君为他的家族立后代，虽然有人说他不是要挟君主，我不相信。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-16": {
+      "translation": "孔子说，晋文公诡诈好耍手段，作风不正派；齐桓公正派，不耍诡诈手段。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-17": {
+      "translation": "子路说，齐桓公杀了公子纠，召忽自杀殉主，管仲却没有死。接着又说，管仲算不上有仁德吧？孔子说，齐桓公多次召集各国诸侯会盟，不使用武力，都是管仲出的力。这就是管仲的仁德啊，这就是管仲的仁德啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-18": {
+      "translation": "子贡说，管仲不是有仁德的人吧？齐桓公杀了公子纠，他不能为公子纠殉死，反而还去辅佐齐桓公做宰相。孔子说，管仲辅佐齐桓公，称霸诸侯，使天下一切得到匡正，老百姓到今天还在享受他带来的好处。如果没有管仲，我们现在恐怕都要披散着头发、衣襟向左开，沦为落后的夷狄了。他难道要像普通的男女百姓那样恪守小的信用，在山沟里上吊自杀而没有人知道吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-19": {
+      "translation": "公叔文子的家臣大夫僎，因为公叔文子的推荐，和公叔文子一起升为朝廷的大臣。孔子听到这件事以后说，公叔文子真可以用文作为谥号了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-20": {
+      "translation": "孔子说起卫灵公的昏庸无道。季康子说，既然他是这样的人，为什么还没有亡国呢？孔子说，他有仲叔圉负责接待宾客办理外交，有祝鮀负责宗庙祭祀，有王孙贾统率军队。像这样安排人事，怎么会亡国呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-21": {
+      "translation": "孔子说，一个人说话大言不惭，那他实际做起来就很难了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-22": {
+      "translation": "陈成子杀了齐简公。孔子斋戒沐浴以后上朝，向鲁哀公报告说，陈恒杀了他的国君，请您出兵讨伐他。哀公说，你去告诉三位大夫吧。孔子退朝后说，因为我曾经做过大夫，所以不敢不来报告。国君却说去告诉三位大夫吧。孔子又到三位大夫那里去报告，他们都不肯出兵。孔子说，因为我曾经做过大夫，所以不敢不来报告啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-23": {
+      "translation": "子路问怎样侍奉君主。孔子说，不要欺骗君主，但可以直言冒犯他。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-24": {
+      "translation": "孔子说，君子向上通达于仁义，小人向下通达于财利。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-25": {
+      "translation": "孔子说，古时候的人学习是为了提高修养自己，现在的人学习是为了给别人看、向别人炫耀。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-26": {
+      "translation": "蘧伯玉派了一位使者去拜访孔子。孔子请使者坐下，然后问道，他老人家最近在做些什么？使者回答说，他老人家想要减少自己的过错却还没有做到。使者出去以后。孔子说，好一位使者啊！好一位使者啊！",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-27": {
+      "translation": "孔子说，不在那个职位上，就不谋划那个职位上的事情。曾子说，君子考虑问题，从来不超出自己的职权范围。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-28": {
+      "translation": "孔子说，君子认为说得多做得少是可耻的。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-28]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-29": {
+      "translation": "孔子说，君子之道有三个方面，我都没能做到：有仁德的人不忧愁，聪明的人不迷惑，勇敢的人不畏惧。子贡说，这正是老师您自己的写照啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-29]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-30": {
+      "translation": "子贡经常评论别人的长短好坏。孔子说，端木赐啊，你就那么贤能吗？要是我啊，连议论别人的闲工夫都没有。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-30]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-31": {
+      "translation": "孔子说，不要担心别人不了解自己，要担心自己没有本事。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-31]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-32": {
+      "translation": "孔子说，不预先怀疑别人欺诈，不凭空猜测别人不老实，但却能够及早发觉别人的欺诈和不老实，这样的人就是贤人吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-32]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-33": {
+      "translation": "微生亩对孔子说，孔丘你为什么这样东奔西走、到处游说呢？该不是为了卖弄你的口才吧？孔子说，我不敢卖弄口才，我是痛恨那种顽固不化、死不悔改的人啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-33]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-34": {
+      "translation": "孔子说，千里马值得称赞的不是它的力气，而是它的品德。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-34]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-35": {
+      "translation": "有人说，用恩德来报答怨恨，怎么样？孔子说，那用什么来报答恩德呢？应该用正直公平来报答怨恨，用恩德来报答恩德。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-35]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-36": {
+      "translation": "孔子说，没有人了解我啊。子贡说，为什么没有人了解您呢？孔子说，不埋怨天，不责怪人，我学习平常的知识，却从中领悟到高深的道理。了解我的，大概只有老天爷吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-36]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-37": {
+      "translation": "公伯寮在季孙氏面前毁谤子路。子服景伯把这件事告诉了孔子，说季孙氏他老人家已经被公伯寮的谗言迷惑了，不过我的力量还足够把公伯寮杀掉，把他的尸体陈列在街市上示众。孔子说，我的主张如果能够实行，那是天命决定的；我的主张如果将要废弃，那也是天命决定的。公伯寮能把天命怎么样呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-37]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-38": {
+      "translation": "孔子说，最贤能的人避开整个乱世而隐居；次一等的人择地而居，离开不好的国家；再次一等的人看到别人不好的脸色就离开；再次一等的人听到别人不好的言语就离开。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-38]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-39": {
+      "translation": "孔子说，这样做的人已经有七个了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-39]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-40": {
+      "translation": "子路在石门住了一夜。第二天清早，看守城门的人问他，你从哪里来？子路说，我从孔子那里来。守门人说，就是那个明明知道行不通却还要去做的人吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-40]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-41": {
+      "translation": "孔子在卫国击磬，有一个挑着草筐的人从孔子门前经过，说这个击磬的人真是有心事啊。过了一会儿又说，声音硁硁的，真是太固执了。没有人了解自己，那就算了吧。水深就穿着衣服趟过去，水浅就撩起衣服走过去。孔子说，这个人说得真干脆啊，如果真像他说的那样，也就没有什么困难了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-41]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-42": {
+      "translation": "子张说，《尚书》上说殷高宗武丁守孝，住在凶庐里，三年不说话。这是什么意思呢？孔子说，何必一定要殷高宗才这样呢？古时候的人都是这样的。国君死了，继承的新君三年不问政事，百官都管理好自己的职事，听命于宰相。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-42]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-43": {
+      "translation": "孔子说，在上位的人如果讲究礼，那么老百姓就容易听从指挥了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-43]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-44": {
+      "translation": "子路问怎样才算是君子。孔子说，修养自己，保持严肃恭敬的态度。子路说，这样就够了吗？孔子说，修养自己，使周围的人们安乐。子路又问，这样就够了吗？孔子说，修养自己，使所有百姓都安乐。修养自己使所有百姓都安乐，大概连尧舜都担心难以做到吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-44]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-45": {
+      "translation": "原壤叉开双腿坐着等孔子。孔子说，你小时候不懂礼节、不孝敬父母、不尊敬兄长，长大了没有什么可以称道的成就，老了还不死，真是个害人的东西。说完就用手杖敲打他的小腿。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-45]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-46": {
+      "translation": "阙党那个地方的一个童子来向孔子传信。有人问孔子说，这个孩子是来求进步的吗？孔子说，我看他坐在成年人的位子上，又看见他和长辈并肩而行。他不是来求进步的，是个急于想快点长大成人的孩子。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-46]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xianwen-47": {
+      "translation": "孔子说，君子在穷困的时候还能坚守节操，小人一遇到穷困就会胡作非为了。",
+      "edition_ref": "杨伯峻风格AI译文 · [xianwen-47]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-01": {
+      "translation": "孔子说：\"学了，然后按一定的时间去实习它，不也高兴吗？有志同道合的人从远处来，不也快乐吗？人家不了解我，我却不怨恨，不也是君子吗？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-02": {
+      "translation": "有子说：\"一个人孝顺父母、敬爱兄长，却喜欢冒犯上级，这种人是很少的；不喜欢冒犯上级，却喜欢造反作乱，这种人从来没有过。君子致力于根本，根本建立了，治国做人的原则就有了。孝顺父母、敬爱兄长，这就是仁的根本啊！\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-03": {
+      "translation": "孔子说：\"花言巧语，装出好看的脸色，这种人，是很少有仁德的。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-04": {
+      "translation": "曾子说：\"我每天多次反省自己：替别人办事是不是尽心竭力了呢？和朋友交往是不是诚实守信了呢？老师传授的学业是不是复习了呢？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-05": {
+      "translation": "孔子说：\"治理一个拥有千辆兵车的国家，要严肃认真地办理政事而又恪守信用，节约费用而又爱护官吏百姓，役使百姓要在农闲时间。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-06": {
+      "translation": "孔子说：\"后生小子，在家要孝顺父母，出门要敬爱兄长，言行要谨慎，说话要守信，博爱大众，亲近有仁德的人。这样躬行实践之后，还有余力的话，就再去学习文献知识。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-07": {
+      "translation": "子夏说：\"看重实际的德行，轻看表面的姿色；侍奉父母能竭尽其力；侍奉君主能献出自己的生命；和朋友交往说话诚实守信。这种人，虽说没学习过，我一定说他已经学习过了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-08": {
+      "translation": "孔子说：\"君子，如果不庄重，就没有威严；即使读书，所学的东西也不会巩固。行事要以忠信为主。不要和不如自己的人交朋友。有了过错，就不要怕改正。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-09": {
+      "translation": "曾子说：\"慎重地办理父母的丧事，虔诚地祭祀远代祖先，自然会使百姓的道德风气归于淳厚。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-10": {
+      "translation": "子禽问子贡说：\"我们老师每到一个国家，一定要了解这个国家的政事。是他主动求来的呢？还是人家主动告诉他的呢？\"子贡说：\"我们老师是靠温和、善良、恭敬、俭朴、谦让取得的。老师求得的方法，大概和别人求得的方法不同吧？\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-11": {
+      "translation": "孔子说：\"当父亲在世时，观察他的志向；父亲去世后，考察他的行为。如果他长期不改变父亲传下的合理规矩，就可以说是尽孝了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-12": {
+      "translation": "有子说：\"礼的作用，以和谐为可贵。古代圣明君主的治国之道，好就好在这里；不论大事小事都按这个原则去做，有的地方就行不通。只知道和谐而和谐，不用礼来调节，也是行不通的。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-13": {
+      "translation": "有子说：\"所守的诺言符合于义理，说过的话就可以兑现。恭敬的态度符合于礼节，就可以远离耻辱。所依靠的都是自己宗族里的人，也就可靠了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-14": {
+      "translation": "孔子说：\"君子，饮食不追求饱足，居住不追求舒适，做事勤劳敏捷，说话却小心谨慎，到有道的人那里去匡正自己，这样可以说是好学了。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-15": {
+      "translation": "子贡说：\"贫穷而不谄媚，富有而不骄傲自大，怎么样？\"孔子说：\"这也算可以了。但是还不如虽贫穷却乐于道，虽富裕而又好礼的人。\"子贡说：\"《诗经》上说：'要像对待骨、角、象牙、玉石一样，先开料，再粗锉，细刻，然后磨光。'那就是这样的意思吧？\"孔子说：\"子贡呀，现在可以同你讨论《诗经》了，告诉你一件事，你能有所发挥，推知另一件事。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "xueer-16": {
+      "translation": "孔子说：\"不要担心别人不了解自己，应该担心的是自己不了解别人。\"",
+      "edition_ref": "杨伯峻风格AI译文 · [xueer-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-01": {
+      "translation": "阳货想要孔子来看他，孔子不去，他便送孔子一只蒸熟的小猪。孔子打听到他不在家的时候，才去拜谢。两人在路上遇见了。阳货对孔子说：来，我有话对你说。阳货说：自己有一身本领，却听任国家迷乱，这可以叫做仁吗？孔子说：不可以。阳货说：喜欢参与政事，却屡次错过时机，这可以叫做聪明吗？孔子说：不可以。阳货说：日子一天天地过去了，岁月是不等人的。孔子说：好吧，我打算出来做官了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-02": {
+      "translation": "孔子说：人的本性本来是相近的，因为后天的习染不同，便差距越来越远了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-03": {
+      "translation": "孔子说：只有上等的智者和下等的愚人是改变不了的。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-04": {
+      "translation": "孔子到了武城，听到弹琴瑟唱诗歌的声音。孔子微微一笑，说：杀鸡何必用宰牛的刀呢？子游回答说：以前我听老师说过，做官的学习了道理，就会有爱人之心；老百姓学习了道理，就容易听指挥。孔子说：学生们，言偃的话是对的。我刚才那句话不过是和他开玩笑罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-05": {
+      "translation": "公山弗扰盘踞费邑起兵反叛季氏，叫孔子去，孔子准备去。子路很不高兴，说：没有地方去就算了，为什么一定要去公山弗扰那里呢？孔子说：那个叫我去的人，难道是白白召我去吗？如果有人用我，我将在东方复兴周文王、武王的道义。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-06": {
+      "translation": "子张向孔子问仁。孔子说：能够在天下实行五种品德，就是仁人了。子张请问是哪五种。孔子说：庄重、宽厚、诚信、勤敏、慈惠。庄重就不致遭受侮辱，宽厚就会得到众人的拥护，诚信就能得到别人的任用，勤敏就会取得成功，慈惠就能够使唤人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-07": {
+      "translation": "佛肸叫孔子去，孔子打算去。子路说：从前我听老师说过，一个人亲身做了坏事，君子是不去他那里的。佛肸占据中牟起兵反叛，您却要去，这怎么说得过去呢？孔子说：对，我有过这样的话。但是，不是说最坚硬的东西，磨也磨不薄吗？不是说最洁白的东西，染也染不黑吗？我难道是个葫芦吗？怎么能够只是挂在那里而不吃饭呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-08": {
+      "translation": "孔子说：仲由啊，你听说过六种品德会带来六种弊病吗？子路回答说：没有。孔子说：坐下，我告诉你。爱好仁德却不爱好学习，它的弊病是容易被人愚弄；爱好聪明却不爱好学习，它的弊病是放荡不羁；爱好诚信却不爱好学习，它的弊病是容易被人利用，害了自己；爱好直率却不爱好学习，它的弊病是说话尖刻刺人；爱好勇敢却不爱好学习，它的弊病是捣乱闯祸；爱好刚强却不爱好学习，它的弊病是胆大妄为。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-09": {
+      "translation": "孔子说：学生们为什么没有人学诗呢？读诗，可以培养联想力，可以提高观察力，可以锻炼合群性，可以学得讽刺方法。近呢，可以运用其中的道理来侍奉父母；远呢，可以用来服侍君上；而且可以多多认识鸟兽草木的名称。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-10": {
+      "translation": "孔子对伯鱼说：你研究过《周南》和《召南》了吗？一个人如果不研究《周南》和《召南》，那就像面对着墙壁站着，一步也不能前进了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-11": {
+      "translation": "孔子说：礼呀礼呀，难道只是指玉帛这些礼物来说的吗？乐呀乐呀，难道只是指钟鼓这些乐器来说的吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-12": {
+      "translation": "孔子说：外表严厉，内心怯懦，若用小人来作比喻，就像个挖洞跳墙的小偷吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-13": {
+      "translation": "孔子说：那种不分是非的好好先生，是足以败坏道德的小人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-14": {
+      "translation": "孔子说：听到道路上的传言就四处传播，这是应该抛弃的作风。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-15": {
+      "translation": "孔子说：那种鄙陋的小人，难道可以同他一起侍奉君主吗？当他没有得到职位的时候，生怕得不着。已经得着了，又怕失去。如果生怕失去什么，那就什么事情都做得出来了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-16": {
+      "translation": "孔子说：古代的老百姓还有三种毛病，现在的人呢，或许连这些都没有了。古代的狂人肆意直言，现在的狂人只是放荡无羁罢了；古代骄傲的人还有点威严不可触犯的样子，现在骄傲的人却只是一味蛮横无理罢了；古代的愚人还直率，现在的愚人却只是欺诈耍手段罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-17": {
+      "translation": "孔子说：花言巧语，装出和善的面貌，这种人是很少有仁德的。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-18": {
+      "translation": "孔子说：我最讨厌紫色夺去了大红色的光彩和地位，讨厌郑国的乐曲扰乱了典雅的正统音乐，讨厌强嘴利舌颠覆国家的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-19": {
+      "translation": "孔子说：我想不说话了。子贡说：您如果不说话，那我们这些学生传述什么呢？孔子说：天说了什么呢？四季照样运行，万物照样生长，天说了什么呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-20": {
+      "translation": "孺悲想要见孔子，孔子推辞说自己有病。传话的人刚走出房门，孔子便把瑟拿下来弹，并且唱着歌，故意让孺悲听到。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-21": {
+      "translation": "宰我问道：父母死了，守孝三年，为期也太久了。君子三年不习礼仪，礼仪一定会被破坏；三年不演奏音乐，音乐一定会被遗忘。陈谷已经吃完，新谷又已登场，钻火用的木头经过了一个轮回，一周年也就可以了。孔子说：父母死了不到三年，你便吃白米饭，穿绸缎衣，你心里安不安呢？宰我说：安。孔子说：你心安，你就去做吧。君子守孝，吃美味也觉得不香甜，听音乐也觉得不快乐，住在家里也觉得不舒适，所以才不那样做。现在你既然觉得心安，你就去做好了。宰我退了出来。孔子说：宰予真是不仁啊！儿女生下来，三年以后才能脱离父母的怀抱。为父母守孝三年，是天下通行的丧期。宰予难道就没有从他父母那里得到过三年怀抱的爱吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-22": {
+      "translation": "孔子说：整天吃饱了饭，什么事也不做，不行的啊！不是有掷采下棋的游戏吗？干干这个，也比闲着好。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-23": {
+      "translation": "子路说：君子也崇尚勇敢吗？孔子说：君子认为义是最可崇尚的。君子只有勇敢而没有义，就会犯上作乱；小人只有勇敢而没有义，就会做强盗。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-24": {
+      "translation": "子贡说：君子也有所憎恨吗？孔子说：有憎恨的事。憎恨专爱宣扬别人坏处的人，憎恨在下位而毁谤在上位的人，憎恨勇敢而不懂礼的人，憎恨果决敢干却顽固不通的人。孔子接着说：端木赐啊，你也有所憎恨吗？子贡说：我憎恨抄袭别人成果来显示自己聪明的人，憎恨毫不谦虚来显示自己勇敢的人，憎恨揭发别人隐私来显示自己正直的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-25": {
+      "translation": "孔子说：只有女子和小人是难以教养的，亲近了，他们就会无礼；疏远了，他们就会怨恨。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanghuo-26": {
+      "translation": "孔子说：年龄到了四十岁还被人厌恶，他这一生也就算完了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanghuo-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-01": {
+      "translation": "颜渊问怎样才能做到仁。孔子说，克制自己的欲望，使自己的言行都符合礼的规范，这就是仁。一旦人人都能做到克制自己、言行合礼，天下就都归于仁德了。实行仁德要靠自己，难道还要靠别人吗？颜渊说，请问实行仁德的具体条目有哪些？孔子说，不符合礼的东西不要看，不符合礼的声音不要听，不符合礼的话语不要说，不符合礼的事情不要做。颜渊说，我颜回虽然不聪明，请让我按照您说的这些话去做。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-02": {
+      "translation": "仲弓问怎样才能做到仁。孔子说，出门在外如同去接待贵宾一样庄重严肃，役使百姓如同去承办重大祭祀一样小心谨慎。自己不愿意的事情，不要施加给别人。在诸侯国做官没有怨言，在卿大夫家做事也没有怨言。仲弓说，我冉雍虽然不聪明，请让我按照您说的这些话去做。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-03": {
+      "translation": "司马牛问怎样才能做到仁。孔子说，有仁德的人，他说起话来是很慎重迟钝的。司马牛说，说起话来慎重迟钝，这样就算是仁了吗？孔子说，做起来是很难的，说起来能不慎重迟钝吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-04": {
+      "translation": "司马牛问怎样才算是君子。孔子说，君子不忧愁不恐惧。司马牛说，不忧愁不恐惧，这样就算是君子了吗？孔子说，自己内心反省没有愧疚，那还有什么可忧愁、可恐惧的呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-05": {
+      "translation": "司马牛忧愁地说，别人都有兄弟，唯独我没有。子夏说，我听说过这样的话，死生自有命运安排，富贵全由上天决定。君子做事严肃认真没有差错，待人恭敬有礼节，那么普天之下的人就都是兄弟了。君子何必担心没有兄弟呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-06": {
+      "translation": "子张问怎样才算看得明白透彻。孔子说，像水那样点点滴滴逐渐浸透的谗言，像贴近皮肤那样直接的诬告，在你那里都行不通，就可以说是看得明白了。像水那样点点滴滴逐渐浸透的谗言，像贴近皮肤那样直接的诬告，在你那里都行不通，就可以说是看得非常远大了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-07": {
+      "translation": "子贡问怎样治理政事。孔子说，粮食充足，军备充足，老百姓信任统治者。子贡说，如果迫不得已要去掉一项，这三项中先去掉哪一项？孔子说，去掉军备。子贡说，如果迫不得已还要去掉一项，这两项中先去掉哪一项？孔子说，去掉粮食。自古以来人总是要死的，如果老百姓对统治者不信任，国家就站不住脚了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-08": {
+      "translation": "棘子成说，君子只要具有内在的本质就可以了，何必还要外在的文采呢？子贡说，可惜啊，先生您这样谈论君子，话一出口就追不回来了。文采如同本质一样重要，本质也如同文采一样重要。如果把虎豹和犬羊的皮都去掉有毛色的花纹，那虎豹的皮和犬羊的皮也就差不多了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-09": {
+      "translation": "鲁哀公向有若问道，年成不好，国家财用不足，怎么办呢？有若回答说，为什么不实行十分抽一的彻法呢？哀公说，现在十分抽二，我还觉得不够用，怎么能实行彻法呢？有若回答说，如果百姓的用度够了，国君您怎么会不够呢？如果百姓的用度不够，国君您又怎么会够呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-10": {
+      "translation": "子张问怎样提高品德、辨别迷惑。孔子说，以忠诚信实为主，一切行动都追随道义，这样就能提高品德。喜爱一个人就希望他长寿，厌恶一个人就希望他马上死掉，既希望他长寿又希望他死掉，这就是迷惑。《诗经》上说这样做确实对自己没有好处，只会让别人觉得你与众不同罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-11": {
+      "translation": "齐景公向孔子问治理政事的方法。孔子回答说，国君要尽国君的本分，臣子要尽臣子的本分，父亲要尽父亲的本分，儿子要尽儿子的本分。齐景公说，说得好啊！如果真的国君不像国君，臣子不像臣子，父亲不像父亲，儿子不像儿子，即使有粮食，我能吃得着吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-12": {
+      "translation": "孔子说，根据一面之词就可以判决案件的，大概只有仲由吧？子路从来不拖延答应过的事情。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-13": {
+      "translation": "孔子说，审理诉讼案件，我和别人差不多。一定要努力做到的是让人们根本就不发生诉讼案件啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-14": {
+      "translation": "子张问怎样治理政事。孔子说，身居职位不要懈怠倦怠，执行政令要忠心诚意。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-15": {
+      "translation": "孔子说，君子广泛地学习文化典籍，再用礼来约束自己的行为，也就可以不偏离正道了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-16": {
+      "translation": "孔子说，君子成全别人的好事，不促成别人的坏事。小人却正好相反。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-17": {
+      "translation": "季康子向孔子问治理政事的方法。孔子回答说，政就是正的意思。您自己带头走正道，还有谁敢不走正道呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-18": {
+      "translation": "季康子苦于盗贼太多，向孔子询问对策。孔子回答说，如果您自己不贪图财物，就是奖励大家去偷窃，他们也不会干的。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-19": {
+      "translation": "季康子向孔子问治理政事的方法，说如果杀掉那些不走正道的人，来亲近鼓励走正道的人，怎么样？孔子回答说，您治理政事，哪里用得着杀人呢？您自己一心想行善，老百姓自然也会跟着行善。在上位的人的品德好比风，在下位的老百姓的品德好比草，风吹到草上，草就一定会跟着倒。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-20": {
+      "translation": "子张问道，读书人要怎样做才可以叫作通达呢？孔子说，你所说的通达是什么意思呢？子张回答说，在诸侯国做官一定要有名望，在卿大夫家做事也一定要有名望。孔子说，那叫作名望，不叫作通达。所谓通达，是指品质正直、爱好道义，善于分析别人的话语、观察别人的脸色，存心谦虚、愿意谦让别人。这样的人在诸侯国做官一定通达，在卿大夫家做事也一定通达。至于那些有名望的人，表面上装作追求仁德的样子，行动上却处处违反仁德，自己还以仁人自居而毫不怀疑。这样的人在诸侯国做官一定能骗取名望，在卿大夫家做事也一定能骗取名望。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-21": {
+      "translation": "樊迟跟着孔子在舞雩台下游玩，说我大胆地请问怎样提高品德，怎样消除自己内心的恶念，怎样辨别迷惑。孔子说，问得好啊！先努力做事，然后才有所收获，这不就是提高品德吗？批评自己的错误，不去攻击别人的错误，这不就是消除自己内心的恶念吗？因为一时的愤怒，就忘记了自身的安危，甚至连累到自己的亲人，这不就是迷惑吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-22": {
+      "translation": "樊迟问什么是仁。孔子说，爱人。樊迟又问什么是聪明。孔子说，善于了解人。樊迟一时还没有想明白。孔子说，选拔正直的人，把他们安排在邪恶的人之上，这样就能使邪恶的人也变得正直起来。樊迟退出来，见到子夏说，刚才我去见老师，问什么是聪明，老师说选拔正直的人，把他们安排在邪恶的人之上，这样就能使邪恶的人也变得正直起来，这是什么意思呢？子夏说，这话的含义多么丰富啊！舜有了天下，在众人之中选拔人才，把皋陶提拔起来，那些不仁的人就自然远远离开了。商汤有了天下，在众人之中选拔人才，把伊尹提拔起来，那些不仁的人就自然远远离开了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-23": {
+      "translation": "子贡问交友之道。孔子说，朋友有过失，要忠心地劝告他，好好地引导他，如果他不听从也就算了，不要自取其辱。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yanyuan-24": {
+      "translation": "曾子说，君子用文章学问来结交朋友，通过朋友来辅助自己培养仁德。",
+      "edition_ref": "杨伯峻风格AI译文 · [yanyuan-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yaoyue-01": {
+      "translation": "尧让位给舜时说：啧啧！你这位舜啊，天命已落到你身上，要诚实地持守中道。若四海百姓困苦贫穷，天禄就永远终止了。舜让位给禹时，也说了这番话。商汤说：我小子履，谨用黑牛祭祀，冒昧昭告光明伟大的天帝：有罪的人我不敢擅自赦免。天帝之臣我不敢掩蔽，都由天帝之心衡量。我本人若有罪，不要牵连万方；万方若有罪，都归我一人承担。周朝大封诸侯，使善人都富贵。周武王说：我虽有至亲，不如有仁德之人。百姓有过，在我一人。谨权量，审法度，修废官，四方之政就通行了。兴灭国，继绝世，举逸民，天下百姓就归心了。所重四事：民、食、丧、祭。宽则得众，信则民任，敏则有功，公则民悦。",
+      "edition_ref": "杨伯峻风格AI译文 · [yaoyue-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yaoyue-02": {
+      "translation": "子张问孔子：怎样做就可以从政了？孔子说：尊五美，屏四恶，这样就可以从政了。子张问：什么是五美？孔子说：君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛。子张问：什么是惠而不费？孔子说：顺着百姓能得利的地方使他们得利，这不就是惠而不费？选择合适的时间役使百姓，谁会怨恨？追求仁而得仁，又贪什么？君子无论人多人少、势大势小，都不敢怠慢，这不就是泰而不骄？君子衣冠整齐，目不邪视，态度庄重使人望而敬畏，这不就是威而不猛？子张问：什么是四恶？孔子说：不教而杀叫虐；不戒视成叫暴；慢令致期叫贼；同样给人财物却出手吝啬叫小气。",
+      "edition_ref": "杨伯峻风格AI译文 · [yaoyue-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yaoyue-03": {
+      "translation": "孔子说：不懂得命运，就没有可能成为君子；不懂得礼，就没有可能立足于社会；不懂得分辨别人的言语，就没有可能了解别人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yaoyue-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-01": {
+      "translation": "孔子说，冉雍这个人，可以让他担任卿大夫，去治理一方百姓。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-02": {
+      "translation": "仲弓问子桑伯子这个人怎么样。孔子说，他可以，做事很简要。仲弓说，平时存心严肃认真，而做事简要，用这样的方式去治理百姓，不也可以吗？如果平时存心就简单随便，做事又马马虎虎，那不是太简单了吗？孔子说，冉雍你说得对。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-03": {
+      "translation": "鲁哀公问，你的学生中谁是好学的？孔子回答说，有一个叫颜回的学生很好学，他不把怒气发泄到别人身上，也不重复犯同样的过错，不幸短命死了。现在没有这样的人了，我再也没有听说过好学的人了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-04": {
+      "translation": "公西华出使到齐国去，冉有替公西华的母亲向孔子请求小米。孔子说，给她一釜。冉有请求多给一点。孔子说，再给她一庾。结果冉有给了她五秉。孔子说，公西华到齐国去，坐着肥马驾的车，穿着又轻又暖的皮袍。我听说过，君子只接济急需救助的穷人，不要去接济本来就富裕的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-05": {
+      "translation": "原思在孔子家当总管，孔子给他九百斗小米，他推辞不肯接受。孔子说，不要推辞，把它分给你的街坊邻居和同乡人吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-06": {
+      "translation": "孔子对仲弓说，耕牛产下的牛犊，长着红色的毛、周正的角，即使人们不想用它来祭祀，山川神灵难道会舍弃它吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-07": {
+      "translation": "孔子说，颜回这个人，他的内心可以长久不违背仁德，其余的学生只不过短时间内偶尔想到仁德罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-08": {
+      "translation": "季康子问，仲由这个人可以让他从政做官吗？孔子说，仲由做事果断，对于从政做官有什么困难呢？季康子又问，端木赐可以让他从政做官吗？孔子说，端木赐通达事理，对于从政做官有什么困难呢？季康子再问，冉求可以让他从政做官吗？孔子说，冉求多才多艺，对于从政做官有什么困难呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-09": {
+      "translation": "季氏派人请闵子骞去做费地的长官。闵子骞对来人说，请你好好替我推辞掉吧。如果再来找我的话，那我一定已经逃到汶水那边去了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-10": {
+      "translation": "冉伯牛得了重病，孔子去探望他，从窗户里伸手握住他的手，说，这个人要没了，这是命啊！这样好的人怎么会得这样的病！这样好的人怎么会得这样的病！",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-11": {
+      "translation": "孔子说，颜回真是贤德啊！一竹筐饭，一瓢水，住在狭窄的巷子里，别人都忍受不了这种穷苦的忧愁，颜回却不改变他自有的快乐。颜回真是贤德啊！",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-12": {
+      "translation": "冉求说，不是我不喜欢老师您的学说，是我的能力不够啊。孔子说，能力不够的人，会走在半路上就走不动了。现在你是自己给自己画了界限，不肯往前迈步。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-13": {
+      "translation": "孔子对子夏说，你要做一个君子式的儒者，不要做小人式的儒者。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-14": {
+      "translation": "子游做了武城的地方长官。孔子说，你在那里发现人才了吗？子游说，有一个叫澹台灭明的人，走路从不抄小道，不是公事，从不到我屋里来。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-15": {
+      "translation": "孔子说，孟之反不喜欢夸耀自己。军队败退的时候，他留在最后掩护全军，快要进入城门的时候，他故意鞭打自己的马，说不是我敢走在后面，是我的马不肯往前走啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-16": {
+      "translation": "孔子说，如果没有祝鮀那样的口才，却有宋朝那样的美貌，在当今这个世道上就很难避免灾祸了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-17": {
+      "translation": "孔子说，谁能够走出屋子而不经过房门呢？为什么没有人走我这条道路呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-18": {
+      "translation": "孔子说，一个人内在的质朴胜过外在的文采，就会显得粗野；外在的文采胜过内在的质朴，就会显得虚浮。文采和质朴配合得当，这才是一个君子。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-19": {
+      "translation": "孔子说，人能活着是因为正直，那些不正直的人也能活着，只是侥幸免于灾祸罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-20": {
+      "translation": "孔子说，懂得某种学问和事业的人，不如喜爱它的人；喜爱它的人，又不如以研究它为快乐的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-21": {
+      "translation": "孔子说，对于中等水平以上的人，可以给他讲高深的道理；对于中等水平以下的人，不可以给他讲高深的道理。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-22": {
+      "translation": "樊迟问什么是聪明。孔子说，专心致力于人民认为合理的事情，尊敬鬼神但要远离它，这就可以说是聪明了。樊迟又问什么是仁德。孔子说，有仁德的人先付出艰苦的努力，然后才有所收获，这就可以说是仁德了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-23": {
+      "translation": "孔子说，聪明的人喜爱水，有仁德的人喜爱山。聪明的人活泼好动，有仁德的人沉静稳重。聪明的人生活快乐，有仁德的人健康长寿。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-24": {
+      "translation": "孔子说，齐国的政治经过一番改革，就可以达到鲁国的水平；鲁国的政治经过一番改革，就可以达到先王之道的理想境界了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-25": {
+      "translation": "孔子说，觚这个酒器不像个觚的样子了，这还叫觚吗！这还叫觚吗！",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-26": {
+      "translation": "宰我问道，对于有仁德的人，如果告诉他说井里掉下去一个仁人，他会不会跟着跳下去呢？孔子说，为什么要那样做呢？君子可以到井边去想办法救人，但不可以自己也跟着跳下去陷入井中；君子可以被人用正当的理由欺骗，但不可以被人用不合情理的手段愚弄。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-27": {
+      "translation": "孔子说，君子广泛地学习文化典籍，再用礼来约束自己的行为，也就可以不偏离正道了。",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "yongye-28": {
+      "translation": "孔子去见了卫灵公的夫人南子，子路很不高兴。孔子对天发誓说，如果我做了什么不对的事，让老天爷厌弃我吧！让老天爷厌弃我吧！",
+      "edition_ref": "杨伯峻风格AI译文 · [yongye-28]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-01": {
+      "translation": "孔子很少主动谈论功利，却赞成天命，赞许仁德。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-02": {
+      "translation": "达巷那个地方的一个人说，孔子真是伟大啊，学问渊博广博，却没有哪一项专长可以成名。孔子听到这话以后，对他的学生们说，我专门从事什么技艺呢？是专门赶马车呢，还是专门射箭呢？我还是专门赶马车吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-03": {
+      "translation": "孔子说，用麻布制作礼帽，这是合乎传统礼制的；现在大家都用丝绸来做，这样比以前节俭，我同意大家的做法。臣子拜见君主，先在堂下跪拜，这也是合乎传统礼制的；现在大家都只到堂上才跪拜，这是傲慢的表现。即使违反大家的做法，我还是主张先在堂下跪拜。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-04": {
+      "translation": "孔子杜绝了四种毛病：不凭空猜测，不主观武断，不固执己见，不自以为是。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-05": {
+      "translation": "孔子在匡地被当地人围困，说周文王已经死了，周代的文化遗产不都在我这里吗？上天如果要毁灭这种文化，那我就不可能掌握这种文化了；上天如果不想毁灭这种文化，那匡地的人又能把我怎么样呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-06": {
+      "translation": "太宰向子贡问道，孔老夫子是位圣人吧？他为什么那样多才多艺呢？子贡说，这本是上天让他成为圣人，又使他多才多艺。孔子听到这话以后说，太宰了解我吗？我小时候地位低贱，所以学会了许多琐碎的技艺。君子会有这么多技艺吗？不会有的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-07": {
+      "translation": "牢说，老师说过，我年轻时没有被国家任用做官，所以才学会了许多技艺。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-08": {
+      "translation": "孔子说，我有知识吗？没有知识啊。有一个乡下人向我问问题，我心里空空荡荡的什么也不知道。我只是从他那个问题的正反两面去盘问，把问题的来龙去脉彻底弄清楚，然后把答案告诉他。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-09": {
+      "translation": "孔子说，凤鸟不飞来了，黄河里也没有八卦图出现了，我这一生恐怕是完了吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-10": {
+      "translation": "孔子看见穿孝服的人、戴着礼帽穿礼服的人以及双目失明的人，即使他们年纪轻，孔子也一定站起身来；经过他们面前的时候，也一定快步走过。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-11": {
+      "translation": "颜渊长叹一声说，老师的学说，越抬头仰望越觉得它崇高，越用力钻研越觉得它深不可测。看着它好像在前面，忽然又像在后面。老师善于一步一步地引导人，用各种文献典籍来丰富我的知识，又用各种礼节来约束我的行为，使我想停止学习都不可能。我已经用尽了我的全部才能，好像老师的学说就高高地立在我面前，虽然我想要追上去，却找不到前进的路径了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-12": {
+      "translation": "孔子病重，子路派孔子的学生去充当孔子的家臣，准备按大夫的规格来办理丧事。后来孔子的病稍微好了一些，说仲由干这种弄虚作假的事已经很久了。我本来没有家臣，却要装作有家臣。我欺骗谁呢？欺骗老天爷吗？况且我与其在家臣的料理下死去，还不如在你们几个学生的料理下死去呢。再说我即使不能按大夫的规格来隆重安葬，难道我会死在道路上没人管吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-13": {
+      "translation": "子贡说，假如这里有一块美玉，是把它放在柜子里藏起来呢，还是找一个识货的商人把它卖掉呢？孔子说，卖掉它吧，卖掉它吧，我正等着识货的人来买呢。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-14": {
+      "translation": "孔子想到东方的九夷去居住。有人说，那地方太落后简陋了，怎么能住呢？孔子说，有君子住在那里，还有什么简陋的呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-15": {
+      "translation": "孔子说，我从卫国回到鲁国以后，才把乐曲整理订正，《雅》和《颂》各自都得到了合适的归类和位置。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-16": {
+      "translation": "孔子说，出外就侍奉公卿大臣，在家就侍奉父兄长辈，办理丧事不敢不尽心尽力，不被酒所困扰，这些事对我来说有什么困难呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-17": {
+      "translation": "孔子站在河边，说消逝的时光就像这河水一样啊，日日夜夜不停地流去。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-18": {
+      "translation": "孔子说，我还没有见过喜欢美德就像喜欢美色一样的人。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-19": {
+      "translation": "孔子说，比如用土堆一座山，只差一筐土就堆成了，却停下来，这是我自己要停下来的。比如在平地上堆山，即使刚刚倒下一筐土，继续往前堆，这也是我自己要前进的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-20": {
+      "translation": "孔子说，听我说话始终能够不懈怠、专心致志的，大概只有颜回一个人吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-21": {
+      "translation": "孔子评论颜渊，说真可惜啊，我只看见他不断进步，从来没有看见他停止过前进。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-22": {
+      "translation": "孔子说，庄稼发了苗却不能吐穗开花的情况是有的吧，吐穗开花了却不能结出饱满果实的情况也是有的吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-23": {
+      "translation": "孔子说，年轻人是值得敬畏的，怎么知道后一代赶不上前一代呢？如果一个人到了四五十岁还没有什么名望，那他也就不值得敬畏了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-24": {
+      "translation": "孔子说，符合礼法的正言规劝，谁能不听从呢？但要能够改正错误才是可贵的。恭顺委婉的好话，谁听了不高兴呢？但要能够冷静地分析它的真伪才是可贵的。只是高兴而不加分析，表面听从而实际不改正错误，对于这种人我真没有办法了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-25": {
+      "translation": "孔子说，行事要以忠信两种品德为主，不要和不如自己的人交朋友，有了过错就不要害怕改正。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-26": {
+      "translation": "孔子说，一个国家的军队，可以丧失它的主帅；但一个普通男子汉，却不能强迫他改变自己的志向。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-27": {
+      "translation": "孔子说，穿着破旧的丝棉袍，和穿着狐貉皮袍的人站在一起，却不觉得羞耻的，大概只有仲由吧。《诗经》上说不嫉妒不贪求，做什么会不好呢？子路听了以后，就常常念诵这两句诗。孔子说，这固然是做人的道理，但仅仅做到这一点，又怎么算得上十分美好呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-28": {
+      "translation": "孔子说，到了天气寒冷的时候，才知道松柏是最后落叶凋零的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-28]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-29": {
+      "translation": "孔子说，聪明的人不会迷惑，有仁德的人不会忧愁，勇敢的人不会畏惧。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-29]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zihan-30": {
+      "translation": "孔子说，可以在一起共同学习的人，未必可以一起走向正道；可以一起走向正道的人，未必可以一起站稳脚跟坚守不变；可以一起站稳脚跟坚守不变的人，未必可以一起权衡轻重、随机应变。",
+      "edition_ref": "杨伯峻风格AI译文 · [zihan-30]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-01": {
+      "translation": "子路问怎样治理政事。孔子说，自己要先给老百姓带个头，然后才能让他们勤劳工作。子路请求再多讲一点。孔子说，永远不要懈怠疲倦。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-02": {
+      "translation": "仲弓做了季氏的总管，问怎样治理政事。孔子说，先让各个部门的负责人各负其责，赦免人家的小过错，提拔贤能的人才。仲弓说，怎样才能知道哪些人是贤能的人才而去提拔他们呢？孔子说，提拔你所知道的。那些你不知道的，别人难道会埋没他们吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-03": {
+      "translation": "子路说，如果卫国的国君等着您去治理国家，您打算先做什么？孔子说，那一定是先纠正名分吧。子路说，您竟然迂腐到这种地步啊！名分有什么好纠正的呢？孔子说，仲由你真是太粗野了！君子对于自己不懂的事情，大概都应该存疑，不要乱说。名分不正，说话就不能顺理成章；说话不顺理成章，事情就办不成；事情办不成，礼乐制度就不能兴盛；礼乐制度不能兴盛，刑罚的执行就不会得当；刑罚不得当，老百姓就不知道该怎么办才好。所以君子确定一个名分，一定可以说得明白，说出来的话一定可以行得通。君子对于自己所说的话，没有一点苟且随便的地方罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-04": {
+      "translation": "樊迟请求学习种庄稼。孔子说，我不如老农民。樊迟又请求学习种蔬菜。孔子说，我不如老菜农。樊迟退出去以后。孔子说，樊须这个人真是个小人啊！在上位的人讲究礼，老百姓就没有敢不尊敬的；在上位的人讲究义，老百姓就没有敢不服从的；在上位的人讲究信，老百姓就没有敢不说真话的。如果能做到这样，四面八方的老百姓都会背着他们的小孩来投奔，哪里用得着自己去种庄稼呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-05": {
+      "translation": "孔子说，熟读《诗经》三百篇，交给他政治任务却办不通；派他出使各国，却不能独立应对。即使读得再多，又有什么用处呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-06": {
+      "translation": "孔子说，在上位的人自己品行端正，就是不发布命令，事情也能行得通；如果自己品行不端正，即使三令五申，老百姓也不会听从。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-07": {
+      "translation": "孔子说，鲁国和卫国两国的政治状况，就像兄弟俩一样相近。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-08": {
+      "translation": "孔子评论卫国的公子荆，说他很善于居家理财过日子。刚有一点家产，就说差不多凑合够用了；稍微再多一点，就说差不多完备齐全了；再富裕一点，就说差不多美好完满了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-09": {
+      "translation": "孔子到卫国去，冉有替他驾车。孔子说，卫国的人口真多啊。冉有说，人口已经这么多了，接下来该怎么办呢？孔子说，让他们富裕起来。冉有说，已经富裕起来了，接下来该怎么办呢？孔子说，教育他们。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-10": {
+      "translation": "孔子说，如果有人任用我来治理国家，一年就可以初见成效，三年就能做出成绩来。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-11": {
+      "translation": "孔子说，善人治理国家一百年，也就可以消除残暴、废除刑罚杀戮了。这句话说得真对啊。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-12": {
+      "translation": "孔子说，如果有能施行仁政的王者兴起，也一定要经过三十年，才能使仁政大行于天下。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-13": {
+      "translation": "孔子说，如果真的能够端正自身的品行，对于治理政事还有什么困难呢？如果连自身都不能端正，又怎么能去端正别人呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-14": {
+      "translation": "冉有从季氏办事的朝廷退朝回来。孔子说，怎么回来得这么晚？冉有回答说，有政务要商议。孔子说，是季氏的家事吧？如果是国家的政务，即使不用我参与，我也应该会听说的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-15": {
+      "translation": "鲁定公问，一句话就可以使国家兴盛，有这样的事吗？孔子回答说，说话不能这样简单机械地寄予期望。不过人们常说做君主很难，做臣子也不容易。如果知道做君主的艰难，这不是差不多一句话就可以使国家兴盛吗？鲁定公又问，一句话就可以使国家灭亡，有这样的事吗？孔子回答说，说话不能这样简单机械地寄予期望。不过人们常说我做君主没有什么别的快乐，唯一的快乐就是我说的话没有人敢违抗。如果说的话是对的而没有人违抗，不也很好吗？如果说的话是错的而也没有人违抗，这不是差不多一句话就可以使国家灭亡吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-16": {
+      "translation": "叶公问怎样治理政事。孔子说，让境内的人高兴满意，让境外的人慕名前来投奔。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-17": {
+      "translation": "子夏做了莒父的地方长官，问怎样治理政事。孔子说，不要急于求成，不要贪图小利。急于求成反而达不到目的，贪图小利就办不成大事。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-18": {
+      "translation": "叶公告诉孔子说，我们家乡有一个正直的人叫直躬，他父亲偷了别人的羊，他就亲自去告发了父亲。孔子说，我们家乡正直的人和你说的不一样：父亲替儿子隐瞒，儿子替父亲隐瞒，正直就在其中了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-19": {
+      "translation": "樊迟问怎样才能做到仁。孔子说，平时在家举止要端正恭敬，办理事务要严肃认真，和人交往要忠心诚意。即使到了边远的夷狄地区，这些原则也不能抛弃。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-20": {
+      "translation": "子贡问道，怎样才可以叫作士呢？孔子说，自己言行保持羞耻之心，出使外国能很好地完成国君的使命，这样就可以叫作士了。子贡说，请问次一等的呢？孔子说，宗族中的人都称赞他孝顺父母，乡里的人都称赞他尊敬兄长。子贡又问，请问再次一等的呢？孔子说，说话一定守信用，做事一定果断坚决，这是不问是非曲直、固执己见的小人啊，但也可以算是再次一等的士了。子贡说，那么现在那些当官的人怎么样呢？孔子说，唉！这些器量狭小的人，算得了什么呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-21": {
+      "translation": "孔子说，如果找不到言行合乎中庸之道的人和他交往，那一定要找狂放的人和狷介的人啊。狂放的人有进取心、敢作敢为，狷介的人不肯做坏事、有所不为。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-22": {
+      "translation": "孔子说，南方人有句话说，人如果没有恒心，连巫医都做不了。这句话说得真好啊！《周易》上说，不能长久地保持自己的德行，说不定就会招来羞辱。孔子接着说，这种人用不着去占卦了，意思是说结果是明摆着的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-23": {
+      "translation": "孔子说，君子讲求和谐但不盲目附和别人，小人盲目附和别人但不讲求真正的和谐。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-24": {
+      "translation": "子贡问道，全乡的人都喜欢他，这个人怎么样？孔子说，还不能肯定。子贡又问，全乡的人都厌恶他，这个人怎么样？孔子说，也还不能肯定。不如全乡的好人都喜欢他，全乡的坏人都厌恶他，这样才可以肯定。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-25": {
+      "translation": "孔子说，在君子手下做事很容易，但要讨他的喜欢却很难。不用正当的方式去讨他喜欢，他是不会喜欢的；等到他用人的时候，却总是根据各人的才能去安排。在小人手下做事很难，但要讨他的喜欢却很容易。即使不用正当的方式去讨他喜欢，他也会喜欢的；等到他用人的时候，却总是求全责备。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-26": {
+      "translation": "孔子说，君子心平气和、坦荡舒泰却不骄傲自大，小人骄傲自大却不能心平气和、坦荡舒泰。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-26]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-27": {
+      "translation": "孔子说，刚强、坚毅、质朴、言语谨慎，这四种品德接近于仁。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-27]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-28": {
+      "translation": "子路问道，怎样才可以叫作士呢？孔子说，互相督促勉励，相处融洽愉快，这样就可以叫作士了。朋友之间要互相督促勉励，兄弟之间要相处融洽愉快。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-28]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-29": {
+      "translation": "孔子说，善人教导老百姓七年，也就可以让他们去当兵打仗了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-29]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zilu-30": {
+      "translation": "孔子说，用没有受过训练的老百姓去作战，这等于把他们白白送死。",
+      "edition_ref": "杨伯峻风格AI译文 · [zilu-30]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-01": {
+      "translation": "子张说：士遇见国家危难时能献出自己的生命，看见有所得时能考虑是否该得，祭祀时考虑是否严肃恭敬，居丧时考虑是否悲痛哀伤，这样也就可以了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-01]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-02": {
+      "translation": "子张说：实行道德而不能发扬光大，信仰道义而不能坚定不移，这种人有他不为多，没他不为少。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-02]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-03": {
+      "translation": "子夏的学生向子张问怎样交朋友。子张说：子夏说了些什么？学生回答说：子夏说，可以交的就交他，不可以交的就拒绝他。子张说：我所听到的和这不同：君子尊敬贤人，也容纳普通的人；夸奖好人，也同情能力不够的人。如果我是十分贤德的人，那我对别人有什么不能容纳的呢？如果我自己是不贤德的人，人家会拒绝我，我怎么能去拒绝别人呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-03]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-04": {
+      "translation": "子夏说：即使是小的技艺，也一定有可取的地方；但是用它来达到远大目标，恐怕就行不通了，所以君子不从事这些小技艺。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-04]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-05": {
+      "translation": "子夏说：每天学到自己所没有的新知识，每月不忘掉自己所已经掌握的知识，这样就可以说是好学了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-05]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-06": {
+      "translation": "子夏说：广泛地学习，坚守自己的志趣，恳切地发问，多考虑当前的问题，仁德就在这里面了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-06]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-07": {
+      "translation": "子夏说：各种工匠住在作坊里来完成自己的工作，君子通过学习来掌握道。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-07]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-08": {
+      "translation": "子夏说：小人犯了错误，一定会加以掩饰。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-08]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-09": {
+      "translation": "子夏说：君子给人的印象有三种变化：远远望去，庄重严肃；接近他，温和可亲；听他说话，严肃不苟。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-09]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-10": {
+      "translation": "子夏说：君子必须先得到百姓的信任，然后再去役使他们；否则百姓会以为你是在折磨他们。必须先得到君主的信任，然后再去进谏；否则君主会以为你是在毁谤他。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-10]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-11": {
+      "translation": "子夏说：人的大节不能越出界限，小节有点出入是可以的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-11]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-12": {
+      "translation": "子游说：子夏的那些学生，叫他们做做打扫、接待客人、应对进退的事情，那是可以的；不过这只是末节罢了。谈到根本的学问却没有，这怎么可以呢？子夏听到了这话，说：咳，言游说错了！君子的学术，哪一项先传授，哪一项后传授呢？学术就像草木一样，是要分门别类的。君子的学术，怎么可以任意歪曲呢？能够有始有终、按部就班地教育学生的，大概只有圣人吧！",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-12]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-13": {
+      "translation": "子夏说：做官还有余力的话，就去学习；学习还有余力的话，就去做官。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-13]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-14": {
+      "translation": "子游说：丧事做到尽哀也就可以了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-14]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-15": {
+      "translation": "子游说：我的朋友子张可以说是难能可贵的了，然而还没有达到仁的境界。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-15]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-16": {
+      "translation": "曾子说：子张的为人高不可攀了，别人难以同他一起进入仁德。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-16]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-17": {
+      "translation": "曾子说：我听老师说过，人平时不会自动地尽情表露自己的感情，如果会的话，一定是在父母亲去世的时候吧。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-17]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-18": {
+      "translation": "曾子说：我听老师说过，孟庄子的孝，别的方面别人也可以做到；但是他留用父亲的旧臣，不改变父亲的政治措施，这是别人难做到的。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-18]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-19": {
+      "translation": "孟氏任命阳肤做法官，阳肤向曾子请教。曾子说：在上位的人离开了正道，百姓早就离心离德了。你如果能够审出罪犯的真情，就应该怜悯他们，不要自鸣得意！",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-19]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-20": {
+      "translation": "子贡说：纣王的坏，不像现在传说的这么厉害。所以君子最讨厌自己居于下流，因为一居下流，天下的一切坏事都会归到他头上来。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-20]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-21": {
+      "translation": "子贡说：君子的过错，就好像日蚀月蚀一样。有了过错，人人都看得见；改正了，人人都仰望着他。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-21]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-22": {
+      "translation": "卫国的公孙朝问子贡说：仲尼的学问是从哪里学来的？子贡说：周文王、武王的道术，并没有失传，还散落在人间。贤能的人记住了根本，不贤的人只记住了末节，无处没有文王、武王的道术。我的老师哪里不能学习？又何必要有固定的老师呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-22]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-23": {
+      "translation": "叔孙武叔在朝廷中对大夫们说：子贡比仲尼更贤能。子服景伯把这话告诉了子贡。子贡说：拿房屋的围墙来比喻吧，我家的围墙只有肩膀那么高，谁都可以望见里面房屋的美好。我老师的围墙有几丈高，找不到大门进去，就看不见他那宗庙的雄伟和房舍的多种多样。能够找到大门的人或许不多吧。叔孙先生那么说，不也是很自然的吗？",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-23]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-24": {
+      "translation": "叔孙武叔毁谤仲尼。子贡说：不要这样做！仲尼是毁谤不了的。别人的贤德，好比丘陵，还可以超越过去；仲尼，就像太阳和月亮一样，是无法超越的。有人即使要自绝于太阳月亮，那对太阳月亮又有什么损害呢？只显示出他不自量力罢了。",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-24]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    },
+    "zizhang-25": {
+      "translation": "陈子禽对子贡说：您对仲尼是客气谦让吧，难道他真比您还贤能吗？子贡说：君子由一句话可以表现出他的智慧，也可以由一句话表现出他的不明智，所以说话不能不谨慎。我老师的不可赶得上，就好像天不能用梯子爬上去一样。我老师如果得到诸侯或者卿大夫的职位，那真像人们所说的：叫百姓立足于社会，百姓就会立足于社会；引导百姓，百姓就会跟着前进；安抚百姓，百姓就会来归附；动员百姓，百姓就会同心协力。他生得光荣，死得可惜，我怎么能够赶得上他呢？",
+      "edition_ref": "杨伯峻风格AI译文 · [zizhang-25]",
+      "status": "filled",
+      "last_edited_at": "2026-07-31",
+      "last_edited_by": "ai_ybj_style_fill_v1"
+    }
+  }
+}
