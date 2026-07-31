@@ -2085,23 +2085,23 @@
       if (notice) notice.classList.add('show');
       console.error('[LunYu] 数据未加载！请确认 data-bundle.js 已正确引入。');
     } else {
-      // 先异步加载解读层（译文 + 名家解读），失败不阻塞，仅空壳显示
-      const loadInterpretations = async () => {
-        try {
-          const [tr, cm] = await Promise.all([
-            fetch('assets/translations_yangbojun.json').then(r => r.ok ? r.json() : null).catch(()=>null),
-            fetch('assets/commentaries.json').then(r => r.ok ? r.json() : null).catch(()=>null),
-          ]);
-          if (tr) D.translations_yangbojun = tr;
-          if (cm) D.commentaries = cm;
-          D.interpretationsLoaded = true;
-          // 如果研读 Modal 此刻是打开的，刷新一次
-          if ($('#card-detail-overlay')?.classList.contains('show') && App.currentChapterId) {
-            showCardDetail(App.currentChapterId);
-          }
-        } catch(e) { /* 忽略，仅用骨架 */ }
-      };
-      loadInterpretations();
+      // v6-fix：解读层（译文 + 名家解读）已经在 data-bundle.js 里同步内联
+      // （100% 离线可用：file:///微信分享/GitHub Pages 都不再依赖 fetch，彻底解决「所有译文敬请期待」）
+      if (window.LUNYU_DATA && window.LUNYU_DATA.translations_yangbojun) {
+        D.translations_yangbojun = window.LUNYU_DATA.translations_yangbojun;
+      }
+      if (window.LUNYU_DATA && window.LUNYU_DATA.commentaries) {
+        D.commentaries = window.LUNYU_DATA.commentaries;
+      }
+      D.interpretationsLoaded = !!(D.translations_yangbojun && D.commentaries);
+      console.log('[LunYu-v6] 解读层状态: translations=' +
+        (D.translations_yangbojun ? Object.keys(D.translations_yangbojun.chapters||{}).length + '章' : '❌未加载') +
+        ', commentaries=' +
+        (D.commentaries ? Object.keys(D.commentaries.chapters||{}).length + '章' : '❌未加载'));
+      // 如果研读 Modal 此刻是打开的，刷新一次
+      if ($('#card-detail-overlay')?.classList.contains('show') && App.currentChapterId) {
+        showCardDetail(App.currentChapterId);
+      }
 
       // 处理 hash 路由
       handleHash();
